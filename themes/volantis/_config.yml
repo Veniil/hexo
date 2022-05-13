@@ -116,30 +116,30 @@ cover:
   background: https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'Volantis'
+  title: 'NXing&南星的小窝'
   subtitle: ''
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
-    - name: 文档
-      icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f5c3.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-      url: /archives/
-    - name: 帮助
-      icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f516.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
-      url: faqs/
-    # - name: 示例
-    #   icon: #
-    #   img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
-    #   url: /examples/
-    - name: 社区
-      icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
-      url: /contributors/
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /archives/
+    - name: 云盘
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f5c3.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
+      url: https://nxingcloud.co/zh-CN/
+    - name: 帮助
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f516.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f516.svg
+      url: https://volantis.js.org/v5/getting-started/
+    # - name: 示例
+    #   icon: #
+    #   img: volantis-static/media/twemoji/assets/svg/1f396.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f396.svg
+    #   url: /examples/
+    # - name: 社区
+    #   icon: #
+    #   img: volantis-static/media/twemoji/assets/svg/1f389.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f389.svg
+    #   url: /contributors/
     - name: 源码
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
