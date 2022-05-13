@@ -418,9 +418,9 @@ comments:
       # url: https://xxxxxx/api/v1/upload
       # token: Bearer xxxxxxxxxxxxxx
       # resp: data.links.url
-      api:   https://api.superbed.cn/upload # 图床地址
-      token: f112196813874e51871751a5576ad1ca # 图床验证
-      resp:  url # 图片地址返回值的字段
+      api: https://sm.ms/api/v2/ # 图床地址
+      token: {"Authorization": "14ac5499cfdd2bb2859e4476d2e5b1d2bad079bf"} # 图床验证
+      resp: data.url # 图片地址返回值的字段
     pageview: true # 浏览量统计
     comment: true  # 评论数统计
     # 其他配置项按照yml格式继续填写即可 除了 [el path imageUploader] 选项
