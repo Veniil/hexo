@@ -272,7 +272,7 @@ article:
 comments:
   title: <i class='fa-solid fa-comments'></i> 评论
   subtitle:
-  service: giscus
+  service: waline
   # 可选评论系统 #
 
   # artalk
@@ -412,15 +412,15 @@ comments:
     css: https://unpkg.com/@waline/client@v2/dist/waline.css
     path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     placeholder: # 评论占位提示
-    serverURL: # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
+    serverURL: https://waline-comment-for-blog.vercel.app/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader:
       # 以兰空图床为例，下列填写内容为：
       # url: https://xxxxxx/api/v1/upload
       # token: Bearer xxxxxxxxxxxxxx
       # resp: data.links.url
-      api:   # 图床地址
-      token: # 图床验证
-      resp:  # 图片地址返回值的字段
+      api:   https://sm.ms/api/v2/ # 图床地址
+      token: GJq7nWiozXPANDa03ZH16lEdfqARyDQq # 图床验证
+      resp:  data.url # 图片地址返回值的字段
     pageview: true # 浏览量统计
     comment: true  # 评论数统计
     # 其他配置项按照yml格式继续填写即可 除了 [el path imageUploader] 选项
