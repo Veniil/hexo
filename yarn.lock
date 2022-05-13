@@ -45,6 +45,15 @@
     "normalize-path" "^3.0.0"
     "picomatch" "^2.0.4"
 
+"aplayer@^1.10.1":
+  "integrity" "sha512-HAfyxgCUTLAqtYlxzzK9Fyqg6y+kZ9CqT1WfeWE8FSzwspT6oBqWOZHANPHF3RGTtC33IsyEgrfthPDzU5r9kQ=="
+  "resolved" "https://registry.npmmirror.com/aplayer/-/aplayer-1.10.1.tgz"
+  "version" "1.10.1"
+  dependencies:
+    "balloon-css" "^0.5.0"
+    "promise-polyfill" "7.1.0"
+    "smoothscroll" "0.4.0"
+
 "archy@^1.0.0":
   "integrity" "sha1-+cjBN1fMHde8N5rHeyxipcKGjEA= sha512-Xg+9RwCg/0p32teKdGMPTPnVXKD0w3DfHnFTficozsAgsvq2XenPJq/MYpzzQ/v8zrOyJn6Ds39VA4JIDwFfqw=="
   "resolved" "https://registry.npmmirror.com/archy/-/archy-1.0.0.tgz"
@@ -76,6 +85,11 @@
   "integrity" "sha1-ibTRmasr7kneFk6gK4nORi1xt2c= sha512-9Y0g0Q8rmSt+H33DfKv7FOc3v+iRI+o1lbzt8jGcIosYW37IIW/2XVYq5NPdmaD5NQ59Nk26Kl/vZbwW9Fr8vg=="
   "resolved" "https://registry.npmmirror.com/balanced-match/-/balanced-match-1.0.0.tgz"
   "version" "1.0.0"
+
+"balloon-css@^0.5.0":
+  "integrity" "sha512-zheJpzwyNrG4t39vusA67v3BYg1HTVXOF8cErPEHzWK88PEOFwgo6Ea9VHOgOWNMgeuOtFVtB73NE2NWl9uDyQ=="
+  "resolved" "https://registry.npmmirror.com/balloon-css/-/balloon-css-0.5.2.tgz"
+  "version" "0.5.2"
 
 "basic-auth@~2.0.1":
   "integrity" "sha512-NF+epuEdnUYVlGuhaxbbq+dvJttwLnGY+YixlXlME5KpQ5W3CnXA5cVTneY3SPbPDRkcjMbifrwmFYcClgOZeg=="
@@ -971,6 +985,11 @@
   optionalDependencies:
     "clipboard" "^2.0.0"
 
+"promise-polyfill@7.1.0":
+  "integrity" "sha512-P6NJ2wU/8fac44ENORsuqT8TiolKGB2u0fEClPtXezn7w5cmLIjM/7mhPlTebke2EPr6tmqZbXvnX0TxwykGrg=="
+  "resolved" "https://registry.npmmirror.com/promise-polyfill/-/promise-polyfill-7.1.0.tgz"
+  "version" "7.1.0"
+
 "range-parser@~1.2.1":
   "integrity" "sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg=="
   "resolved" "https://registry.npmmirror.com/range-parser/-/range-parser-1.2.1.tgz"
@@ -1076,6 +1095,11 @@
   "integrity" "sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A=="
   "resolved" "https://registry.npmmirror.com/shebang-regex/-/shebang-regex-3.0.0.tgz"
   "version" "3.0.0"
+
+"smoothscroll@0.4.0":
+  "integrity" "sha512-sggQ3U2Un38b3+q/j1P4Y4fCboCtoUIaBYoge+Lb6Xg1H8RTIif/hugVr+ErMtIDpvBbhQfTjtiTeYAfbw1ZGQ=="
+  "resolved" "https://registry.npmmirror.com/smoothscroll/-/smoothscroll-0.4.0.tgz"
+  "version" "0.4.0"
 
 "source-map-resolve@^0.5.2":
   "integrity" "sha512-Htz+RnsXWk5+P2slx5Jh3Q66vhQj1Cllm0zvnaY98+NFx+Dv2CF/f5O/t8x+KaNdrdIAsruNzoh/KpialbqAnw=="
