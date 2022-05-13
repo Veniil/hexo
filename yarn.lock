@@ -546,6 +546,13 @@
   dependencies:
     "hexo-pagination" "1.0.0"
 
+"hexo-helper-qrcode@^1.0.2":
+  "integrity" "sha512-/cGrNPVhR4DolCg6YTd4jrrAyBgfLZW3xh+3RlWgpJikMjD/xUui1oM8i+KHiGU0hAO9aMWM1pvuaRySzl0ucQ=="
+  "resolved" "https://registry.npmmirror.com/hexo-helper-qrcode/-/hexo-helper-qrcode-1.0.2.tgz"
+  "version" "1.0.2"
+  dependencies:
+    "qr-image" "^3.1.0"
+
 "hexo-i18n@^1.0.0":
   "integrity" "sha512-yw90JHr7ybUHN/QOkpHmlWJj1luVk5/v8CUU5NRA0n4TFp6av8NT7ujZ10GDawgnQEdMHnN5PUfAbNIVGR6axg=="
   "resolved" "https://registry.npmmirror.com/hexo-i18n/-/hexo-i18n-1.0.0.tgz"
@@ -989,6 +996,11 @@
   "integrity" "sha512-P6NJ2wU/8fac44ENORsuqT8TiolKGB2u0fEClPtXezn7w5cmLIjM/7mhPlTebke2EPr6tmqZbXvnX0TxwykGrg=="
   "resolved" "https://registry.npmmirror.com/promise-polyfill/-/promise-polyfill-7.1.0.tgz"
   "version" "7.1.0"
+
+"qr-image@^3.1.0":
+  "integrity" "sha512-rXKDS5Sx3YipVsqmlMJsJsk6jXylEpiHRC2+nJy66fxA5ExYyGa4PqwteW69SaVmAb2OQ18HbYriT7cGQMbduw=="
+  "resolved" "https://registry.npmmirror.com/qr-image/-/qr-image-3.2.0.tgz"
+  "version" "3.2.0"
 
 "range-parser@~1.2.1":
   "integrity" "sha512-Hrgsx+orqoygnmhFbKaHE6c296J+HTAQXoxEF6gNupROmmGJRoyzfG3ccAveqCBrwr/2yxQ5BVd/GTl5agOwSg=="
