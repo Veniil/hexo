@@ -600,7 +600,7 @@ site_footer:
     <span id="lc-sv">本站总访问量为 <span id='number'><i class="fa-solid fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
     <span id="lc-uv">访客数为 <span id='number'><i class="fa-solid fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
   # site copyright
-  copyright: '[Copyright © since 2017 XXX](/)'
+  copyright: '[Copyright © since 2022 NXing&南星](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '<br>'
 ############################### Site Footer ############################### > end
@@ -709,7 +709,7 @@ plugins:
   # fontawesome V6:  https://fontawesome.com/docs/web/style/animate
   # fontawesome animation for fontawesome V5
   fontawesome_animation:
-    enable: #true
+    enable: true
     css: volantis-static/libs/font-awesome-animation/font-awesome-animation.min.css # https://cdn.jsdelivr.net/gh/l-lin/font-awesome-animation/dist/font-awesome-animation.min.css
 
   # Typing Effects
