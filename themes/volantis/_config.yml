@@ -448,20 +448,20 @@ sidebar:
   widget_library:
     # ---------------------------------------
     # blogger info widget
-    blogger:
+    blogger: 
       class: blogger
       display: [desktop, mobile] # [desktop, mobile]
-      avatar: volantis-static/media/org.volantis/blog/Logo-NavBar@3x.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
+      avatar: https://s1.ax1x.com/2022/05/13/OyS53F.jpg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-NavBar@3x.png
       shape: rectangle # circle, rectangle
       url: /about/
-      title:
-      subtitle:
+      title: NXing&南星
+      subtitle: 一个大三在读生
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
         - icon: fa-solid fa-rss
           url: /atom.xml
         - icon: fa-solid fa-envelope
-          url: mailto:me@xxx.com
+          url: mailto:z1304242002@163.com
         - icon: fab fa-github
           url: https://github.com/volantis-x/
         - icon: fa-solid fa-headphones-alt
