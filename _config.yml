@@ -11,7 +11,7 @@ author: 南星
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: https://cdn.jsdelivr.net/gh/xaoxuu/assets@master/favicon/favicon.ico
+favicon: /favicon/favicon.ico
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
