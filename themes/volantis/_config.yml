@@ -83,7 +83,7 @@ navbar:
     icon:
     title:
   menu:
-    - name: 博客
+    - name: 首页
       icon: fa-solid fa-rss
       url: /
     - name: 分类
@@ -116,8 +116,8 @@ cover:
   background: https://uploadbeta.com/api/pictures/random/?key=BingEverydayWallpaperPicture
   # background: https://bing.ioliu.cn/v1/rand?w=1920&h=1200
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
-  title: 'NXing&南星的小窝'
-  subtitle: ''
+  title: 'NXing&南星'
+  subtitle: '记录成长'
   search: A Wonderful Theme for Hexo # search bar placeholder
   features:
     - name: 博客
@@ -149,7 +149,7 @@ cover:
 pages:
   # 友链页面配置
   friends:
-    layout_scheme: traditional # simple: 简单布局, traditional: 传统布局
+    layout_scheme: simple # simple: 简单布局, traditional: 传统布局
 
 ############################### Article Layout ############################### > start
 # 文章布局
