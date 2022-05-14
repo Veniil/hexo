@@ -118,7 +118,7 @@ cover:
   logo: # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/Logo-Cover@3x.png
   title: 'NXing&南星'
   subtitle: '记录成长'
-  search: A Wonderful Theme for Hexo # search bar placeholder
+  search: The world is going to get better # search bar placeholder
   features:
     - name: 博客
       icon: #
@@ -412,7 +412,7 @@ comments:
     css: https://unpkg.com/@waline/client@v2/dist/waline.css
     path: # 全局评论地址 目前设置全局评论地址后visitor失效,这是waline的问题
     placeholder: 快来发表自己的看法吧~ # 评论占位提示
-    serverURL: https://waline-comment-for-blog.vercel.app/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
+    serverURL: https://comments.nxingcloud.co/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader:
       # 以兰空图床为例，下列填写内容为：
       # url: https://xxxxxx/api/v1/upload
@@ -474,7 +474,7 @@ sidebar:
       header:
         icon: fa-solid fa-list
         title: 本文目录
-      list_number: false
+      list_number: true
       min_depth: 2
       max_depth: 5
     # ---------------------------------------
@@ -482,7 +482,7 @@ sidebar:
     music:
       class: music
       display: [desktop, mobile] # [desktop, mobile]
-      pjaxReload: false
+      pjaxReload: true
     # ---------------------------------------
     # category widget
     category:
@@ -584,16 +584,16 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, analytics, info, copyright]
+  layout: [social, license, analytics, info, copyright]
   social:
-    - icon: #fa-solid fa-rss
-      url:
-    # or
-    - img:
-      url:
-    # or
-    - avatar:
-      url:
+    - icon: fas fa-rss
+      url: /
+    - icon: fas fa-envelope
+      url: mailto:z1304242002@163.com
+    - icon: fab fa-github
+      url: https://github.com/ZhangXQA
+    - icon: fas fa-headphones-alt
+      url: https://music.163.com/#/user/home?id=63035382
   # site source
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using leancloud
@@ -604,7 +604,7 @@ site_footer:
   # site copyright
   copyright: '[Copyright © since 2022 NXing&南星](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
-  br: '<br>'
+  hello: '欢迎大家一起学习交流'
 ############################### Site Footer ############################### > end
 
 ############################### Plugins ############################### > start
@@ -760,14 +760,14 @@ plugins:
     # Required
     server: netease   # netease, tencent, kugou, xiami, baidu
     type: playlist    # song, playlist, album, search, artist
-    id: 3175833810    # song id / playlist id / album id / search keyword
+    id: 2003749719    # song id / playlist id / album id / search keyword
     # Optional
     fixed: false      # enable fixed mode
     theme: '#1BCDFC'  # main color
     autoplay: false   # audio autoplay
     order: list       # player play order, values: 'list', 'random'
     loop: all         # player loop play, values: 'all', 'one', 'none'
-    volume: 0.7       # default volume, notice that player will remember user setting, default volume will not work after user set volume themselves
+    volume: 0.5       # default volume, notice that player will remember user setting, default volume will not work after user set volume themselves
     list_max_height: 320px # list max height
     list_folded: true
     autoHide: true    # hide automaticaly

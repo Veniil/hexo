@@ -1,0 +1,13 @@
+cover:
+  height_scheme: full # full, half
+  layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+  display: # 封面展示
+    home: true
+    archive: true
+    others: false # can be written in front-matter 'cover: true'
+
+sidebar:
+  # 主页、分类、归档等独立页面
+  for_page: [blogger, category, tagcloud, music, lastupdate]
+  # layout: docs/post 这类文章页面
+  for_post: [toc]
