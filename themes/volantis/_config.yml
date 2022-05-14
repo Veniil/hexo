@@ -175,7 +175,7 @@ article:
   body:
     # 文章顶部信息
     # 从 meta_library 中取
-    top_meta: [author, category, date, wordcount, counter] #启用评论数量需在此添加
+    top_meta: [author, category, date] #启用评论数量需在此添加
     # ----------------
     # 文章页脚组件
     footer_widget:
@@ -421,8 +421,8 @@ comments:
     #  api: https://sm.ms/api/v2/upload/ # 图床地址
     #  token: BQZsqR9buzMQbfs7b2aayQTvY5LcaNSm # 图床验证
     #  resp: data.url # 图片地址返回值的字段
-    pageview: true # 浏览量统计
-    comment: true  # 评论数统计
+    pageview: false # 浏览量统计
+    comment: false  # 评论数统计
     # 其他配置项按照yml格式继续填写即可 除了 [el path imageUploader] 选项
     # 组件属性地址：https://waline.js.org/reference/component.html
     # meta: ['nick', 'mail', 'link']
@@ -584,7 +584,7 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [social, license, analytics, info, copyright]
+  layout: [social, license, br, copyright]
   social:
     - icon: fas fa-rss
       url: /
@@ -604,7 +604,7 @@ site_footer:
   # site copyright
   copyright: '[Copyright © since 2022 NXing&南星](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
-  hello: '欢迎大家一起学习交流'
+  br: '[欢迎大家一起学习交流](/)'
 ############################### Site Footer ############################### > end
 
 ############################### Plugins ############################### > start
