@@ -3,7 +3,7 @@
   items:
     - title: '南星的藏宝阁' # 名称
       avatar: https://s1.ax1x.com/2022/05/13/OyS53F.jpg # 头像
-      url: 'nxingcloud.co/' # 链接
+      url: 'https://nxingcloud.co/zh-CN/' # 链接
       screenshot: https://s1.ax1x.com/2022/05/14/Oc3QC6.png # 截图
       keywords: '资源分享' # 关键词
       description: '这是我用来分享一些资源的网站' # 描述
