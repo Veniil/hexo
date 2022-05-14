@@ -459,7 +459,7 @@ sidebar:
       jinrishici: true # Poetry Today. You can set a string, and it will be displayed when loading fails.
       social:
         - icon: fa-solid fa-rss
-          url: /atom.xml
+          url: /
         - icon: fa-solid fa-envelope
           url: mailto:z1304242002@163.com
         - icon: fab fa-github
@@ -482,7 +482,7 @@ sidebar:
     music:
       class: music
       display: [desktop, mobile] # [desktop, mobile]
-      pjaxReload: true
+      pjaxReload: false
     # ---------------------------------------
     # category widget
     category:
@@ -491,7 +491,7 @@ sidebar:
       header:
         icon: fa-solid fa-folder-open
         title: 文章分类
-        url: /blog/categories/
+        url: /categories/
     # ---------------------------------------
     # tagcloud widget
     tagcloud:
@@ -500,7 +500,7 @@ sidebar:
       header:
         icon: fa-solid fa-tags
         title: 热门标签
-        url: /blog/tags/
+        url: /tags/
       min_font: 14
       max_font: 24
       color: true
