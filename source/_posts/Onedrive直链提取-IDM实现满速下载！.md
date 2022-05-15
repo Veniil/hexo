@@ -1,7 +1,6 @@
 ---
 title: Onedrive直链提取+IDM实现满速下载！
-date: 2022-05-16 02:39:16 
-tags: Onedrive，直链下载，IDM, 网盘满速
+tags: 'Onedrive，直链下载，IDM, 网盘满速'
 updated: 2022/05/16
 category: /Onedrive
 plugins:
@@ -9,9 +8,11 @@ plugins:
 renderNumberedHeading: true
 grammar_cjkRuby: true
 music:
- server: netease   # netease, tencent, kugou, xiami, baidu
- type: song        # song, playlist, album, search, artist
- id: 1908189152      # song id / playlist id / album id / search keyword
+  server: netease
+  type: song
+  id: 1908189152
+abbrlink: a3ad802e
+date: 2022-05-16 02:39:16
 ---
 
 # Onedrive直链提取+IDM实现满速下载！
