@@ -1,7 +1,7 @@
 ---
 title: Hello World
 date: 2022/05/12
-update: 2022/05/12
+updated: 2022/05/12
 plugins:
   - indent
 music:
