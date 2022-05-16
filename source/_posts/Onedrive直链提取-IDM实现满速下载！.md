@@ -62,6 +62,8 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 {% link IDM-中文绿色版::https://nxingcloud.co/api/raw/?path=/IDM%20-6.38.7.2%20%20中文绿色特别版.rar::https://s1.ax1x.com/2022/05/16/ORv74I.png %}
 
 下载之后找一个习惯的文件夹解压出来，解压出来后先点击绿化，然后打开下面的**IDMan.exe**文件就可以用啦
+[![ORvq8P.md.png](https://s1.ax1x.com/2022/05/16/ORvq8P.md.png)](https://imgtu.com/i/ORvq8P)
+
 {% note warning::解压出来后一定要先点击绿化！！ %}
 
 打开后我们直接点击新建任务。
