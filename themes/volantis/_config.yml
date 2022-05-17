@@ -175,7 +175,7 @@ article:
   body:
     # 文章顶部信息
     # 从 meta_library 中取
-    top_meta: [author, category, date] #启用评论数量需在此添加
+    top_meta: [author, category, date, counter] #启用评论数量需在此添加
     # ----------------
     # 文章页脚组件
     footer_widget:
@@ -538,7 +538,7 @@ sidebar:
           text: '本站总字数：'   # 需要启用 wordcount
           unit: '字'
         visitcounter:
-          service: busuanzi # busuanzi, leancloud
+          service: leancloud # busuanzi, leancloud
           siteuv:
             enable: true
             text: '本站访客数：'
@@ -584,7 +584,7 @@ tag_plugins:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [social, license, br, copyright]
+  layout: [social, license, analytics, br, copyright]
   social:
     - icon: fas fa-rss
       url: /
@@ -598,9 +598,8 @@ site_footer:
   source: https://github.com/volantis-x/volantis-docs/
   # analytics using leancloud
   analytics: >
-    <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-    <span id="busuanzi_container_site_pv"><br>本站总访问量为<span id="busuanzi_value_site_pv"></span>次</span>
-    <span id="busuanzi_container_site_uv"><br>访客数为<span id="busuanzi_value_site_uv"></span>人次</span>
+    <span id="lc-sv">本站总访问量为 <span id='number'><i class="fa-solid fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> 次</span>
+    <span id="lc-uv">访客数为 <span id='number'><i class="fa-solid fa-circle-notch fa-spin fa-fw" aria-hidden="true"></i></span> 人</span>
   # site copyright
   copyright: '[Copyright © since 2022 NXing&南星](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
@@ -1232,9 +1231,9 @@ custom_css:
 analytics:
   busuanzi: #volantis-static/libs/busuanzi/js/busuanzi.pure.mini.js #https://cdn.jsdelivr.net/gh/volantis-x/cdn-busuanzi@2.3/js/busuanzi.pure.mini.js
   leancloud: # 请使用自己的 id & key 以防止数据丢失
-    app_id: # u9j57bwJod4EDmXWdxrwuqQT-MdYXbMMI
-    app_key: # jfHtEKVE24j0IVCGHbvuFClp
-    custom_api_server: # 国际版一般不需要写，除非自定义了 API Server
+    app_id: iLg18YdK8wKVOMzd0Ytu2cAe-gzGzoHsz # u9j57bwJod4EDmXWdxrwuqQT-MdYXbMMI
+    app_key: 4Nji1I9Cs7insF7Fh8jd7F3L # jfHtEKVE24j0IVCGHbvuFClp
+    custom_api_server: https://ilg18ydk.lc-cn-n1-shared.com/ # 国际版一般不需要写，除非自定义了 API Server
 ############################### Analytics ############################### > end
 
 ############################### SEO ############################### > start

@@ -5,9 +5,9 @@
 # Site
 title: 南星的博客
 subtitle: 南星的博客
-description: 这里是南星的小博客，用来做我的日常记录
-keywords: NXing,NXingcloud,南星,博客,C++,C语言,Python,网络技术
-author: 南星
+description: '这里是南星的小博客，用来做我的学习记录记录，不定时分享C语言，C++，Python，计算机网络，及日常使用技巧等方面的内容'
+keywords: NXing,NXingcloud,南星,博客,Blog,C++,C语言,Python,网络技术,volantis
+author: '南星'
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
