@@ -10,7 +10,7 @@ sidebar:
   # 主页、分类、归档等独立页面
   for_page: [blogger, category, tagcloud, music, lastupdate]
   # layout: docs/post 这类文章页面
-  for_post: [toc]
+  for_post: [music, toc]
 
 # 消息提示 
   # izitoast@1.4.0
@@ -20,6 +20,11 @@ sidebar:
       title: '知识共享许可协议'
       message: '请遵守 CC BY-NC-SA 4.0 协议。'
       icon: 'far fa-copyright light-blue'
+    aplayer:
+      enable: true
+      play: fa-light fa-play light-blue
+      pause: fa-light fa-pause light-blue
+      error: fa-light fa-exclamation-square red
 
 ### 自定义右键 新
 rightmenus:

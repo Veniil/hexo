@@ -9,8 +9,8 @@ renderNumberedHeading: true
 grammar_cjkRuby: true
 music:
   server: netease
-  type: song
-  id: 1908189152
+  type: playlist
+  id: 647135926
 abbrlink: a3ad802e
 date: 2022-05-16 02:39:16
 ---

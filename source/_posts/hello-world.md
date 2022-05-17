@@ -6,8 +6,8 @@ plugins:
   - indent
 music:
   server: netease
-  type: song
-  id: 1908189152
+  type: playlist
+  id: 647135926
 abbrlink: 4a17b156
 ---
 
