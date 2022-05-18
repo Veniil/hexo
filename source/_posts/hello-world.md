@@ -4,10 +4,6 @@ date: 2022/05/12
 updated: 2022/05/12
 plugins:
   - indent
-music:
-  server: netease
-  type: playlist
-  id: 647135926
 abbrlink: 4a17b156
 ---
 
