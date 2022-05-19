@@ -415,8 +415,8 @@ comments:
     serverURL: https://waline.nxingcloud.co/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
     imageUploader:
       # 以兰空图床为例，下列填写内容为：
-      api: https://pic.iqy.ink/api/v1/upload
-      token: Bearer 87|imzO8YH8Jl5cKq4yNVhMvfTE1iIzeaYX4fmwIt0v
+      api: http://8.130.96.171/api/v1/upload
+      token: Bearer 1|F8dRL1PSF4kBw511HLnOmEC5RfUdFiHPtLftwrnp   # 87|imzO8YH8Jl5cKq4yNVhMvfTE1iIzeaYX4fmwIt0v
       resp: data.links.url
       # api: https://sm.ms/api/v2/upload/ # 图床地址
       # token: BQZsqR9buzMQbfs7b2aayQTvY5LcaNSm # 图床验证
