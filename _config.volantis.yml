@@ -1,5 +1,5 @@
 navbar:
-  visiable: auto # always, auto
+  visiable: always # always, auto
   logo: # choose [img] or [icon + title]
     img: https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
     icon:
@@ -11,12 +11,12 @@ navbar:
     - name: 分类
       icon: fa-solid fa-folder-open
       url: categories/
-    - name: 标签
-      icon: fa-solid fa-tags
-      url: tags/
     - name: 归档
       icon: fa-solid fa-archive
       url: archives/
+    - name: 说说
+      icon: fa-solid fa-hashtag
+      url: bibi/
     - name: 友链
       icon: fa-solid fa-link
       url: friends/
@@ -193,13 +193,21 @@ plugins:
     id: 647135926    # song id / playlist id / album id / search keyword
     order: random       # player play order, values: 'list', 'random'
     autoHide: false    # hide automaticaly
-# 暗黑模式 darkmode
+  # 暗黑模式 darkmode
   # 开关按钮：在 navbar.menu 中添加：
   # - name: 暗黑模式 # 可自定义
   #   icon: fa-solid fa-moon # 可自定义
   #   toggle: darkmode
   darkmode:
     enable: true
+  # BBtalk https://bb.js.org
+  bbtalk:
+    # Set `plugins: ["bbtalk"]` to enable in front-matter
+    # 不支持 Pjax
+    js: https://unpkg.com/bbtalk@0.1.5/dist/bbtalk.js # BBtalk.js
+    appId: 54VfCnvQDlDg15kUhSA0Ayy4-MdYXbMMI # your appID
+    appKey: 6MmfrV9IVCG4HDpyxXQyw0XK # your appKEY
+    serverURLs: https://54vfcnvq.api.lncldglobal.com # Request Api 域名
 
 # 消息提示 
   # izitoast@1.4.0

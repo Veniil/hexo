@@ -3,6 +3,7 @@ title: Onedrive直链提取+IDM实现满速下载！
 tags: 'Onedrive，直链下载，IDM, 网盘满速'
 updated: 2022/05/16
 category: /Onedrive
+author: NXing
 plugins:
   - indent
 renderNumberedHeading: true
