@@ -215,11 +215,6 @@
   dependencies:
     "sprintf-js" "~1.0.2"
 
-"argparse@^2.0.1":
-  "integrity" "sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q=="
-  "resolved" "https://registry.npmmirror.com/argparse/-/argparse-2.0.1.tgz"
-  "version" "2.0.1"
-
 "arr-diff@^2.0.0":
   "integrity" "sha512-dtXTVMkh6VkEEA7OhXnN1Ecb8aAGFdZ1LFxtOCoqj4qkyOJMt7+qs6Ahdy6p/NQCPYsRSXXivhSB/J5E9jmYKA=="
   "resolved" "https://registry.npmmirror.com/arr-diff/-/arr-diff-2.0.0.tgz"
@@ -1580,10 +1575,10 @@
   "resolved" "https://registry.npmmirror.com/hexo-wordcount/-/hexo-wordcount-6.0.1.tgz"
   "version" "6.0.1"
 
-"hexo@^5.3.0":
-  "integrity" "sha512-4vMDle5GjpMeOVrx0NKoTZCqrmpJVg3wNiNNUVjcoFfcpYcMzQUCZHBtQqLl7BzjJ8x2gs002VQ5yv0ZKtj8Jg=="
-  "resolved" "https://registry.npmmirror.com/hexo/-/hexo-5.4.0.tgz"
-  "version" "5.4.0"
+"hexo@^5.4.2":
+  "integrity" "sha512-Af6mxKwx9byalaffKgiQ8/bZfbXPo2SGEn2Q9hFh++15g15/IulvOhu8lQkJdyZNzmj3hOuSrJdqoUvIr3K/qw=="
+  "resolved" "https://registry.npmmirror.com/hexo/-/hexo-5.4.2.tgz"
+  "version" "5.4.2"
   dependencies:
     "abbrev" "^1.1.1"
     "archy" "^1.0.0"
@@ -1595,7 +1590,7 @@
     "hexo-i18n" "^1.0.0"
     "hexo-log" "^2.0.0"
     "hexo-util" "^2.4.0"
-    "js-yaml" "^4.0.0"
+    "js-yaml" "^3.14.1"
     "micromatch" "^4.0.2"
     "moment" "^2.22.2"
     "moment-timezone" "^0.5.21"
@@ -1936,20 +1931,13 @@
   "resolved" "https://registry.npmmirror.com/isstream/-/isstream-0.1.2.tgz"
   "version" "0.1.2"
 
-"js-yaml@^3.13.1":
+"js-yaml@^3.13.1", "js-yaml@^3.14.1":
   "integrity" "sha512-okMH7OXXJ7YrN9Ok3/SXrnu4iX9yOk+25nqX4imS2npuvTYDmo/QEZoqwZkYaIDk3jVvBOTOIEgEhaLOynBS9g=="
   "resolved" "https://registry.npmmirror.com/js-yaml/-/js-yaml-3.14.1.tgz"
   "version" "3.14.1"
   dependencies:
     "argparse" "^1.0.7"
     "esprima" "^4.0.0"
-
-"js-yaml@^4.0.0":
-  "integrity" "sha512-pqon0s+4ScYUvX30wxQi3PogGFAlUyH0awepWvwkj4jD4v+ova3RiYw8bmA6x2rDrEaj8i/oWKoRxpVNW+Re8Q=="
-  "resolved" "https://registry.npmmirror.com/js-yaml/-/js-yaml-4.0.0.tgz"
-  "version" "4.0.0"
-  dependencies:
-    "argparse" "^2.0.1"
 
 "jsbn@~0.1.0":
   "integrity" "sha512-UVU9dibq2JcFWxQPA6KCqj5O42VOmAY3zQUfEKxU0KpTGXwNoCjkX1e13eHNvw/xPynt6pU0rZ1htjWTNTSXsg=="
