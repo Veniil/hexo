@@ -9,6 +9,7 @@
     "aplayer": "^1.10.1",
     "hexo": "^5.4.2",
     "hexo-abbrlink": "^2.2.1",
+    "hexo-deployer-git": "^3.0.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
@@ -25,7 +26,18 @@
   },
   "scripts": {
     "dev": "hexo server -p $PORT",
-    "build": "hexo generate"
+    
+    "build": "hexo generate",
+
+    "clean": "hexo clean",
+
+    "deploy": "hexo deploy",
+
+    "dd": "hexo clean && hexo g -d",
+
+    "server": "hexo server",
+
+    "ss": "hexo clean && hexo s"
   },
   "devDependencies": {
     "@waline/client": "^2.4.2"

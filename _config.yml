@@ -87,4 +87,5 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@150.158.185.126:/home/git/repos/taiblog.git
