@@ -1,7 +1,7 @@
 navbar:
-  visiable: always # always, auto
+  visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
+    img: http://rh651xal8.hd-bkt.clouddn.com/img/Earthlogo.ico?image # https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
     icon:
     title:
   menu:
@@ -22,28 +22,47 @@ navbar:
       url: about/
 cover:
   height_scheme: full # full, half
-  layout_scheme: search # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
+  layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display: # 封面展示
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  title: 'NXing&南星'
-  subtitle: '记录成长'
+  background: https://api.ixiaowai.cn/gqapi/gqapi.php
+  logo: http://rh651xal8.hd-bkt.clouddn.com/img/circleedgelogo.png?image
+  title: '南星&NXing'
+  subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
   features:
+    - name: 主页
+      icon: #
+      img: volantis-static/media/twemoji/assets/svg/1f5c3.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
+      url: /v4/getting-started/
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
       url: /archives/
     - name: 云盘
       icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f5c3.svg # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
+      img: http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
       url: https://nxingcloud.co/zh-CN/
-    - name: 源码
+    - name: 文件
       icon: #
-      img: volantis-static/media/twemoji/assets/svg/1f9ec.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      img: volantis-static/media/twemoji/assets/svg/1f5c3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      url: https://github.com/volantis-x/hexo-theme-volantis/
+    - name: 空投
+      icon: #
+      img: http://rh651xal8.hd-bkt.clouddn.com/img/airdroplogo.png?image #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://github.com/volantis-x/hexo-theme-volantis/
 ############################### Cover ############################### > end
+
+custom_css:
+  fontfamily:
+    logofont:
+      fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
+      name: 'Varela Round'
+      url: http://rh651xal8.hd-bkt.clouddn.com/img/HYMiaoHunTiJ.woff2 # volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://gcore.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      weight: normal
+      style: normal
 
 pages:
   # 友链页面配置
@@ -188,7 +207,7 @@ plugins:
     enable: false
   # 视差滚动效果 Slide Background
   parallax:
-    enable: true
+    enable: false
   # APlayer is only available in mainland China.
   # APlayer config: https://github.com/metowolf/MetingJS
   aplayer:
