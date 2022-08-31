@@ -3,15 +3,15 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: NXing's Blog
+title: 南星有话说
 subtitle: 南星的博客
-description: '这里是南星的小博客，用来做我的学习记录记录，不定时分享C语言，C++，Python，计算机网络，及日常使用技巧等方面的内容'
+description: '这里是南星的小站，用来做我的学习记录记录，不定时分享C语言，C++，Python，计算机网络，及日常使用技巧等方面的内容'
 keywords: NXing,NXingcloud,南星,博客,Blog,C++,C语言,Python,网络技术,volantis
-author: 'NXing&南星'
+author: '南星&NXing'
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: /favicon/favicon.ico
+favicon: http://rh651xal8.hd-bkt.clouddn.com/img/Earthlogo.ico?image
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -87,4 +87,5 @@ theme: volantis
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@150.158.185.126:/home/git/repos/taiblog.git
