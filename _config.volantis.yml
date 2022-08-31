@@ -36,11 +36,11 @@ cover:
     - name: 主页
       icon: #
       img: http://rh651xal8.hd-bkt.clouddn.com/img/pagelogo2.svg?image # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-      url: /v4/getting-started/
+      url: http://150.158.185.126:7788/
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
-      url: /archives/
+      url: /
     - name: 文件
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
@@ -80,7 +80,7 @@ article:
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
         avatar: https://s1.ax1x.com/2022/05/13/OyS53F.jpg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: NXing&南星
+        name: 南星&NXing
         url: /
 
 comments:
@@ -107,7 +107,7 @@ sidebar:
       avatar: https://s1.ax1x.com/2022/05/13/OyS53F.jpg
       shape: rectangle # circle, rectangle
       url: /about/
-      title: NXing&南星
+      title: 南星&NXing
       subtitle: 一个大三在读生
       social:
         - icon: fa-solid fa-rss
@@ -178,9 +178,9 @@ site_footer:
     - icon: fab fa-github
       url: https://github.com/ZhangXQA
   # site copyright
-  copyright: '[Copyright © since 2022 NXing&南星](/)'
+  copyright: '[Copyright © 2022 南星&NXing](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
-  br: '[欢迎大家一起学习交流](/)'
+  br: '[Powered by Hexo and Volantis](/)'
 
 ############################### Plugins ############################### > start
 plugins:
@@ -229,7 +229,7 @@ plugins:
   # izitoast@1.4.0
   message:
     copyright:                           # 是否在复制时弹出版权提示，影响范围：ctrl+c、代码块复制按钮、右键复制选项
-      enable: false
+      enable: true
       title: '知识共享许可协议'
       message: '请遵守 CC BY-NC-SA 4.0 协议。'
       icon: 'far fa-copyright light-blue'
