@@ -170,7 +170,7 @@ sidebar:
 ############################### Site Footer ############################### > start
 site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [social, license, analytics, br, copyright]
+  layout: [social, license, analytics, shilds, copyright]
   social:
     - icon: fas fa-rss
       url: /
@@ -178,8 +178,9 @@ site_footer:
       url: mailto:z1304242002@163.com
     - icon: fab fa-github
       url: https://github.com/ZhangXQA
+  shilds: '[![](https://img.shields.io/badge/Powered-Hexo-blue.svg)](https://hexo.io/zh-cn/)        [![](https://img.shields.io/badge/Theme-Volantis-success.svg)](https://volantis.js.org/)'
   # site copyright
-  copyright: '[Copyright © 2022 南星&NXing](/)'
+  copyright: 'Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '[Powered by Hexo and Volantis](/)'
 
