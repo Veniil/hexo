@@ -1,12 +1,12 @@
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: http://rh651xal8.hd-bkt.clouddn.com/img/icon1.png?image # https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
+    img: http://rh651xal8.hd-bkt.clouddn.com/img/450x200-1.png?image # https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
     icon:
     title:
   menu:
     - name: 首页
-      icon: fa-solid fa-rss
+      icon: fa fa-home
       url: /
     - name: 分类
       icon: fa-solid fa-folder-open
@@ -40,19 +40,19 @@ cover:
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
-      url: /http://150.158.185.126:9999/
+      url: https://nxingcloud.co/
     - name: 文件
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://github.com/volantis-x/hexo-theme-volantis/
+      url: https://one.nxingcloud.co/
     - name: 空投
       icon: #
       img: http://rh651xal8.hd-bkt.clouddn.com/img/airdroplogo.png?image #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://github.com/volantis-x/hexo-theme-volantis/
+      url: https://airportal.cn/
     - name: 云盘
       icon: #
       img: http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-      url: https://nxingcloud.co/zh-CN/
+      url: https://pan.nxingcloud.co/
 ############################### Cover ############################### > end
 
 pages:
@@ -104,21 +104,21 @@ sidebar:
     # blogger info widget
     blogger: 
       class: blogger
-      display: [desktop, mobile] # [desktop, mobile]
+      display: [desktop] # [desktop, mobile]
       avatar: http://rh651xal8.hd-bkt.clouddn.com/img/circleedgelogo.png?image
       shape: circle # circle, rectangle
       url: /about/
       title: 南星&NXing
       subtitle: Code Creates Life.
       social:
-        - icon: fa-solid fa-rss
-          url: /
+        - icon: fa fa-home
+          url: https://me.nxingcloud.co/
         - icon: fa-solid fa-envelope
           url: mailto:z1304242002@163.com
         - icon: fab fa-github
-          url: https://github.com/ZhangXQA
+          url: https://github.com/ZhangXQA/
         - icon: fa-solid fa-headphones-alt
-          url: /
+          url: https://music.163.com/#/playlist?id=647135926/
     # ---------------------------------------
     # toc widget (valid only in articles)
     toc:
@@ -172,12 +172,12 @@ site_footer:
   # layout of footer: [aplayer, social, license, info, copyright]
   layout: [social, license, analytics, shilds, copyright]
   social:
-    - icon: fas fa-rss
-      url: /
+    - icon: fa fa-home
+      url: https://me.nxingcloud.co/
     - icon: fas fa-envelope
       url: mailto:z1304242002@163.com
     - icon: fab fa-github
-      url: https://github.com/ZhangXQA
+      url: https://github.com/ZhangXQA/
   shilds: '[![](https://img.shields.io/badge/Powered-Hexo-blue.svg)](https://hexo.io/zh-cn/)        [![](https://img.shields.io/badge/Theme-Volantis-success.svg)](https://volantis.js.org/)'
   # site copyright
   copyright: 'Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
