@@ -26,17 +26,11 @@
   },
   "scripts": {
     "dev": "hexo server -p $PORT",
-    
     "build": "hexo generate",
-
     "clean": "hexo clean",
-
     "deploy": "hexo deploy",
-
     "dd": "hexo clean && hexo g -d",
-
     "server": "hexo server",
-
     "ss": "hexo clean && hexo s"
   },
   "devDependencies": {
