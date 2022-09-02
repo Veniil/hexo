@@ -15,7 +15,7 @@ favicon: http://rh651xal8.hd-bkt.clouddn.com/img/circleicon.png?image
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://nxingcloud.co
+url: https://nxingcloud.co/
 root: /
 # permalink: :year/:month/:day/:title/
 # permalink_defaults:

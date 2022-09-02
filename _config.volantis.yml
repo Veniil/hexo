@@ -111,7 +111,7 @@ sidebar:
       title: 南星&NXing
       subtitle: Code Creates Life.
       social:
-        - icon: fa fa-home
+        - icon: fa-solid fa-circle-user
           url: https://me.nxingcloud.co/
         - icon: fa-solid fa-envelope
           url: mailto:z1304242002@163.com
@@ -264,7 +264,7 @@ analytics:
   leancloud: # 请使用自己的 id & key 以防止数据丢失
     app_id: jzo6WNun9yu1j8JBPvqtrI07-MdYXbMMI # u9j57bwJod4EDmXWdxrwuqQT-MdYXbMMI
     app_key: 2Pup6g4oWaBzosPxYVD0CFxV # jfHtEKVE24j0IVCGHbvuFClp
-    custom_api_server: https://lncld.nxingcloud.co # 国际版一般不需要写，除非自定义了 API Server
+    custom_api_server: https://lncld.nxingcloud.cf/ # 国际版一般不需要写，除非自定义了 API Server
 
 custom_css:
   scrollbar: # 滚动条
