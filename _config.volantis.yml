@@ -1,7 +1,7 @@
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: http://rh651xal8.hd-bkt.clouddn.com/img/450x200-1.png?image # https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
+    img: http://rh651xal8.hd-bkt.clouddn.com/img/450x200-1.png?image/ # https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
     icon:
     title:
   menu:
@@ -27,8 +27,8 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://api.ixiaowai.cn/gqapi/gqapi.php
-  logo: http://rh651xal8.hd-bkt.clouddn.com/img/circleedgelogo.png?image
+  background: https://www.todaybing.com/api/today/cn # https://api.ixiaowai.cn/gqapi/gqapi.php/
+  logo: http://rh651xal8.hd-bkt.clouddn.com/img/circleedgelogo.png?image/
   title: '南星&NXing'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
