@@ -27,7 +27,7 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://www.todaybing.com/api/today/cn # https://api.ixiaowai.cn/gqapi/gqapi.php/
+  background: https://www.talklee.com/api/bing?rand=true
   logo: http://rh651xal8.hd-bkt.clouddn.com/img/circleedgelogo.png?image/
   title: '南星&NXing'
   subtitle: 'Code Creats Life.'
