@@ -37,14 +37,14 @@ thumbnail: http://rh651xal8.hd-bkt.clouddn.com/images/logo/icon/CCicon-ea897594.
         1. 复制和分享授权作品(Licensed Material)的全部或部分，仅限于非商业性使用；以及
         2. 为非商业目的创作、复制和分享演绎作品(Adapted Material)。
 
-    2. 例外和限制 为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。
-    3. 期限 本公共许可协议的期限规定于[第六条 a 款](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s6a/)。
-    4. 媒介和形式；允许的技术修改 许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于[第二条a款第(4)项](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s2a4/) 进行的技术修改不构成演绎作品(Adapted Material)。
-    5. 后续接受者
+    2. 例外和限制：为避免疑义，若著作权的例外和限制适用于您对授权作品(Licensed Material)的使用，本公共许可协议将不适用，您也无须遵守本公共许可协议之条款。
+    3. 期限：本公共许可协议的期限规定于[第六条 a 款](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s6a/)。
+    4. 媒介和形式，允许的技术修改： 许可人授权您在任何媒介以任何形式（不论目前已知的或未来出现的）行使本协议授予的权利，并为之进行必要的技术修改。许可人放弃和/或同意不主张任何权利以阻止您为了行使协议项下权利进行必要的技术修改，包括为规避有效技术措施所必须的技术修改。为了本公共许可协议之目的， 基于[第二条a款第(4)项](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s2a4/) 进行的技术修改不构成演绎作品(Adapted Material)。
+    5. 后续接受者：
         1. 来自许可人的要约——授权作品(Licensed Material) 本授权作品(Licensed Material)的每一个后续接受者都自动取得许可人的要约，以按照本公共许可协议的条款行使协议授予的权利。
         2. 来自许可人的额外要约——演绎作品(Adapted Material) 您基于授权作品(Licensed Material)创作的演绎作品(Adapted Material)的每一个后续接受者都自动取得许可人的要约，以按照您所适用的“演绎作者的许可”协议的条款行使协议所授予的权利。
         3. 禁止下游限制 若会限制授权作品(Licensed Material)后续接受者行使本协议所授予的权利，则您不得对授权作品(Licensed Material)提出或增加任何额外的或不同的条款，或使用任何有效技术措施。
-    6. 并非背书 本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 [第三条a款第(1)项(A)目(i)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s3a1Ai/)所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。
+    6. 并非背书：本公共许可协议不构成、或不得被解释为允许您声明或主张：您或您对授权作品(Licensed Material)的使用与许可人或 [第三条a款第(1)项(A)目(i)](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s3a1Ai/)所规定要求提供署名的权利人相关联，或得到其赞助、同意或被授予正式地位。
 2. **其他权利**
     1. 依据本公共许可协议，著作人身权，例如保护作品完整权、形象权、隐私权或其他类似的人格权利，不在许可范围内。但是，在条件允许的情况下，许可人可以在必要范围内放弃和/或同意不主张其权利，以便您行使本协议所授予的权利。
     2. 本公共许可协议不适用于任何专利权或商标权许可。
@@ -65,8 +65,8 @@ thumbnail: http://rh651xal8.hd-bkt.clouddn.com/images/logo/icon/CCicon-ea897594.
             5. 在合理可行情况下，本授权作品(Licensed Material)的网址(URI)或超链接；
         2. 表明您是否修改本授权作品(Licensed Material)及保留任何先前修改的标记；及
         3. 表明授权作品(Licensed Material)依据本公共许可协议授权，并提供本公共许可协议全文，或者本公共许可协议的网址(URI)或超链接。
-    2. 依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足第三条a款第(1)项的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。
-    3. 如果许可人要求，您必须在合理可行的范围内移除[第三条a款第(1)项(A)目](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s3a1/) 所要求的任何信息。
+    2. 依据您分享本授权作品(Licensed Material)的媒介、方法及情況，您可以采用任何合理方式满足[第三条a款第(1)项](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s3a1/)的条件 。 例如，提供包含所要求信息来源的网址(URI)或超链接可算是合理地满足此处的条件。
+    3. 如果许可人要求，您必须在合理可行的范围内移除[第三条a款第(1)项(A)目](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hans#s3a1A/) 所要求的任何信息。
 
 2. **相同方式共享**
 
