@@ -84,13 +84,15 @@ article:
         url: /
 
 comments:
-  service: waline
+  title: <i class='fa-light fa-comments POMEGRANATE'></i> 评论
+  service: artalk
   # 可选评论系统 #
-  waline:
-    placeholder: 快来发表自己的看法吧~ # 评论占位提示
-    serverURL: https://waline.nxingcloud.co/ # Waline 的服务端地址（必填） 测试用地址: https://waline.vercel.app
-    pageview: false # 浏览量统计
-    comment: true  # 评论数统计
+  artalk:
+    js: http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-8cd0610d.js # http://150.158.185.126:23366/dist/Artalk.js # https://yours-artalk-domain/dist/Artalk.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
+    css: http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-86129f6f.css # http://150.158.185.126:23366/dist/Artalk.css # https://yours-artalk-domain/dist/Artalk.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
+    server: http://150.158.185.126:23366 # https://yours-artalk-domain    # 修改为自建的后端服务地址
+    path:  # 全局评论地址
+    placeholder: # 评论占位
 
 sidebar:
   position: right # left right
