@@ -84,7 +84,7 @@ article:
         url: /
 
 comments:
-  title: <i class='fa-light fa-comments POMEGRANATE'></i> 评论
+  title: <i class='fa-solid fa-comments'></i> 评论
   service: artalk
   # 可选评论系统 #
   artalk:
