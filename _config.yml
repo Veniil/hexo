@@ -4,7 +4,7 @@
 
 import:
   head_end: 
-  - <script defer data-domain="nxingcloud.co" src="https://analytics.nxingcloud.co/js/plausible.js"></script>
+  - <script async defer data-website-id="e3e278bf-e568-4720-a2b9-6e0eefd6d89c" src="http://uma.nxingcloud.co/xuezm.js"></script>
 
 # Site
 title: 南星有话说
