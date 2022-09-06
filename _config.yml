@@ -2,6 +2,10 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+import:
+  head_end: 
+  - <script defer data-domain="nxingcloud.co" src="https://analytics.nxingcloud.co/js/plausible.js"></script>
+
 # Site
 title: 南星有话说
 subtitle: 南星的博客

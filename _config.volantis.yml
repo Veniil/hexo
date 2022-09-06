@@ -1,7 +1,3 @@
-import:
-  head_begin:
-  - <script defer data-domain="nxingcloud.co" src="https://analytics.nxingcloud.co/js/plausible.js"></script>
-
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
