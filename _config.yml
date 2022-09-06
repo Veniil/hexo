@@ -11,7 +11,7 @@ author: '南星&NXing'
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: http://rh651xal8.hd-bkt.clouddn.com/img/circleicon.png?image
+favicon: https://s1.ax1x.com/2022/09/06/v7qn1A.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
