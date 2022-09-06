@@ -36,7 +36,7 @@ cover:
     # - name: 主页
     #   icon: #
     #   img: http://rh651xal8.hd-bkt.clouddn.com/img/pagelogo2.svg?image # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-    #   url: http://150.158.185.126:7788/
+    #   url: 
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
@@ -180,11 +180,11 @@ site_footer:
       url: mailto:z1304242002@163.com
     - icon: fab fa-github
       url: https://github.com/ZhangXQA/
-  beian: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2022019815</a>
-  Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由<img src="https://s1.ax1x.com/2022/09/06/v7Ln5F.png" alt="又拍云" width="59" height="30" vertical-align="middle">提供CDN加速/云存储服务</a>
+  beian: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2022019815号-1</a>
+  Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由 <img src="https://s1.ax1x.com/2022/09/06/v7Ln5F.png" alt="又拍云" width="59" height="30" style="vertical-align:middle"> 提供CDN加速/云存储服务</a>
   shilds: '[![](https://img.shields.io/badge/Powered-Hexo-blue.svg)](https://hexo.io/zh-cn/)        [![](https://img.shields.io/badge/Theme-Volantis-success.svg)](https://volantis.js.org/)'
   # site copyright
-  copyright: '[政策](http://150.158.185.126:9999/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
+  copyright: '[政策](https://nxingcloud.co/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '[Powered by Hexo and Volantis](/)'
 

@@ -61,8 +61,8 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 针对Onedrive不同文件的直链，下载速度也会有所偏差。基本上IDM和Motrix都有可能达到满速的效果。这里以IDM为例来展示下载过程。
 #### 3.2.1 安装IDM
 
-拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://nxingcloud.co/api/raw/?path=/IDM%20-6.38.7.2%20%20%E4%B8%AD%E6%96%87%E7%BB%BF%E8%89%B2%E7%89%B9%E5%88%AB%E7%89%88.rar)进行下载哦。
-{% link IDM-中文绿色版::https://nxingcloud.co/api/raw/?path=/IDM%20-6.38.7.2%20%20中文绿色特别版.rar::https://s1.ax1x.com/2022/05/16/ORv74I.png %}
+拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://pan.nxingcloud.co/#s/8eurzQvg)进行下载哦。
+{% link IDM-中文绿色版::https://pan.nxingcloud.co/#s/8eurzQvg::https://s1.ax1x.com/2022/05/16/ORv74I.png %}
 
 下载之后找一个习惯的文件夹解压出来，解压出来后先点击绿化，然后打开下面的**IDMan.exe**文件就可以用啦
 [![ORvq8P.md.png](https://s1.ax1x.com/2022/05/16/ORvq8P.md.png)](https://imgtu.com/i/ORvq8P)
