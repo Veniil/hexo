@@ -93,6 +93,10 @@ comments:
     server: https://artalk.nxingcloud.co # https://yours-artalk-domain    # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
+    emoticons: 
+    - "https://cdn.nxingcloud.co/assets/emoji/bilibili2233/bilibili2233-695ddd75ffd2f17e401c4b1642c67492-71d0f6.json"
+    - "https://cdn.nxingcloud.co/assets/emoji/Tieba/Tieba-a74dcc7cda7f5b2a876e01ceaa82af09-cc8d29.json"
+
 
 sidebar:
   position: right # left right
