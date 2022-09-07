@@ -88,8 +88,8 @@ comments:
   service: artalk
   # 可选评论系统 #
   artalk:
-    js: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-b5b3a442.js?image # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-8cd0610d.js #  # https://yours-artalk-domain/dist/Artalk.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
-    css: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-2a1f8b36.css?image # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-86129f6f.css #  # https://yours-artalk-domain/dist/Artalk.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
+    js: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-b5b3a442.js # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-8cd0610d.js #  # https://yours-artalk-domain/dist/Artalk.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
+    css: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-2a1f8b36.css # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-86129f6f.css #  # https://yours-artalk-domain/dist/Artalk.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
     server: https://artalk.nxingcloud.co # https://yours-artalk-domain    # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
@@ -277,13 +277,13 @@ custom_css:
       logofont:
         fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
         name: 'HanYiCuFangSongJian'
-        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2?image # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2 # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
         weight: normal
         style: normal
       bodyfont:
         fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
         name: 'UbuntuMono'
-        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2?image # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # 
+        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2 # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # 
         weight: normal
         style: normal
   gap:
