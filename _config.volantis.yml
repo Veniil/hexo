@@ -1,7 +1,7 @@
 navbar:
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://s1.ax1x.com/2022/09/06/v7q0BV.png # https://s1.ax1x.com/2022/05/13/OyMf1J.png # 导航栏首个图标
+    img: https://cdn.nxingcloud.co/images/logo/icon/logo_450x200-22e71da5.png?image # 导航栏首个图标
     icon:
     title:
   menu:
@@ -28,7 +28,7 @@ cover:
     archive: true
     others: false # can be written in front-matter 'cover: true'
   background: https://www.talklee.com/api/bing?rand=true
-  logo: https://s1.ax1x.com/2022/09/06/v7qQnP.png
+  logo: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
   title: '南星&NXing'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
@@ -47,11 +47,11 @@ cover:
       url: https://one.nxingcloud.co/
     - name: 空投
       icon: #
-      img: https://s1.ax1x.com/2022/09/06/v7qmpd.png #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      img: https://cdn.nxingcloud.co/images/logo/icon/airdroplogo-a5a94dd3.png?image #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://airportal.cn/
     - name: 云盘
       icon: #
-      img: https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
+      img: https://cdn.nxingcloud.co/images/logo/icon/Cloudlogo-f84213fc.ico?image # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
       url: https://pan.nxingcloud.co/
 ############################### Cover ############################### > end
 
@@ -79,7 +79,7 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://s1.ax1x.com/2022/05/13/OyS53F.jpg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
+        avatar: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
         name: 南星&NXing
         url: /
 
@@ -88,8 +88,8 @@ comments:
   service: artalk
   # 可选评论系统 #
   artalk:
-    js: https://artalk.nxingcloud.co/dist/Artalk.js # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-8cd0610d.js #  # https://yours-artalk-domain/dist/Artalk.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
-    css: https://artalk.nxingcloud.co/dist/Artalk.css # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-86129f6f.css #  # https://yours-artalk-domain/dist/Artalk.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
+    js: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-b5b3a442.js?image # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-8cd0610d.js #  # https://yours-artalk-domain/dist/Artalk.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
+    css: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-2a1f8b36.css?image # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-86129f6f.css #  # https://yours-artalk-domain/dist/Artalk.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
     server: https://artalk.nxingcloud.co # https://yours-artalk-domain    # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
@@ -107,7 +107,7 @@ sidebar:
     blogger: 
       class: blogger
       display: [desktop] # [desktop, mobile]
-      avatar: https://s1.ax1x.com/2022/09/06/v7qQnP.png
+      avatar: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
       shape: circle # circle, rectangle
       url: /about/
       title: 南星&NXing
@@ -181,7 +181,7 @@ site_footer:
     - icon: fab fa-github
       url: https://github.com/ZhangXQA/
   beian: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2022019815号-1</a>
-  Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由 <img src="https://s1.ax1x.com/2022/09/06/v7Ln5F.png" alt="又拍云" width="59" height="30" style="vertical-align:middle"> 提供CDN加速/云存储服务</a>
+  Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由 <img src="https://cdn.nxingcloud.co/images/logo/icon/upai-bf0d7cd0.png?image" alt="又拍云" width="59" height="30" style="vertical-align:middle"> 提供CDN加速/云存储服务</a>
   shilds: '[![](https://img.shields.io/badge/Powered-Hexo-blue.svg)](https://hexo.io/zh-cn/)        [![](https://img.shields.io/badge/Theme-Volantis-success.svg)](https://volantis.js.org/)'
   # site copyright
   copyright: '[政策](https://nxingcloud.co/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
@@ -223,14 +223,6 @@ plugins:
   #   toggle: darkmode
   darkmode:
     enable: true
-  # BBtalk https://bb.js.org
-  bbtalk:
-    # Set `plugins: ["bbtalk"]` to enable in front-matter
-    # 不支持 Pjax
-    js: https://unpkg.com/bbtalk@0.1.5/dist/bbtalk.js # BBtalk.js
-    appId: 54VfCnvQDlDg15kUhSA0Ayy4-MdYXbMMI # your appID
-    appKey: 6MmfrV9IVCG4HDpyxXQyw0XK # your appKEY
-    serverURLs: https://54vfcnvq.api.lncldglobal.com # Request Api 域名
 
 # 消息提示 
   # izitoast@1.4.0
@@ -285,13 +277,13 @@ custom_css:
       logofont:
         fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
         name: 'HanYiCuFangSongJian'
-        url: https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2?image # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
         weight: normal
         style: normal
       bodyfont:
         fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
         name: 'UbuntuMono'
-        url: https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # 
+        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2?image # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # 
         weight: normal
         style: normal
   gap:
