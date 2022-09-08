@@ -89,3 +89,17 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 ## 五、局限性
 
 {% note warning::注意，经过本人和网友测试，发现此种方法只适用于下载onedrive中的单个文件而不能下载整个文件夹，当用文件夹的共享链接下载时会变为apx文件。目前这个漏洞源于Onedrive的局限性，尚无法修复 %}
+
+## 六、最新消息
+
+2022年9月8日更新：
+
+我自己经常用onedrive，有一个开发者账号和一个个人家庭版账号，今天惊喜地发现Onedrive客户端的下载速度居然逼近了20M/s。
+
+![](https://cdn.nxingcloud.co/images/posts/one/tisu-1714b373cecc338dbbc1a36b45374119-344557.png)
+
+不过就在我惊喜之余去ping了一下onedrive的官网，发现结果还是一如既往。
+
+![](https://cdn.nxingcloud.co/images/posts/one/ping-1d5ae41ee0df3f2f10115377277aa594-7efe7a.png)
+
+好在客户端的下载速度算是提了上来，无论稳定与否，终归也是看见了不限速的曙光。
