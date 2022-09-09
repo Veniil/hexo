@@ -28,7 +28,7 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 ## 三、满速下载
 
 ### 3.1 Onedrive直链提取
-其实Onedrive有着微软在背后作支撑，它与windows的融合程度堪称完美。连直链提取都比某度方便了太多。如果不是Onedrive国际版的服务器部署在国外，那简直堪称完美！
+其实Onedrive有着微软在背后作支撑，它与windows的融合程度无可匹敌。连直链提取都比某度方便了太多。如果不是Onedrive国际版的服务器部署在国外，那简直堪称完美！
 话不多说，我们直接开始看怎么进行直链提取。
 
 #### 3.1.1 获取Onedrive共享链接
@@ -46,7 +46,8 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 [![ORXi8K.md.png](https://s1.ax1x.com/2022/05/16/ORXi8K.md.png)](https://imgtu.com/i/ORXi8K)
 #### 3.1.2 共享链接转换为直链
 
-然后最关键的步骤在这里，我们该怎样把分享链接转为下载直链呢？其实很简单。
+然后最关键的步骤在这里，将获取的Onedrive分享链接转换为下载直链。
+
 将 OneDrive分享地址中"https://1drv.ms/" 调整为 "http://1drv.stdfirm.com/"，后面的后缀不要动，实现直链获取。
 
 即，将1drv.ms --> 1drv.stdfirm.com
@@ -55,16 +56,18 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 {% link Onedrive直链提取::http://1drv.stdfirm.com/::https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets@master/logo/256/safari.png %}
 [![ORXHZd.md.png](https://s1.ax1x.com/2022/05/16/ORXHZd.md.png)](https://imgtu.com/i/ORXHZd)
 
+{% note warning::注意，此网站非本人运营，仅作推荐，对于其中的内容与安全性不作保障，是否使用请网友们自行选择。本人对于使用此网站产生的一切问题概不负责。另外，如该网站负责人不希望本人在此引用则请联系本人删除。本站详细网站政策请参见[政策](https://nxingcloud.co/pages/policy/)一页。 %}
+
 将自己复制到的链接粘贴到上面然后直接点击提取后，把下面的链接复制起来就是直链啦~
 ### 3.2 利用IDM/Motrix实现满速下载
 
 针对Onedrive不同文件的直链，下载速度也会有所偏差。基本上IDM和Motrix都有可能达到满速的效果。这里以IDM为例来展示下载过程。
 #### 3.2.1 安装IDM
 
-拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://pan.nxingcloud.co/#s/8eurzQvg)进行下载哦。
+拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://pan.nxingcloud.co/#s/8eurzQvg)进行下载。
 {% link IDM-中文绿色版::https://pan.nxingcloud.co/#s/8eurzQvg::https://s1.ax1x.com/2022/05/16/ORv74I.png %}
 
-下载之后找一个习惯的文件夹解压出来，解压出来后先点击绿化，然后打开下面的**IDMan.exe**文件就可以用啦
+下载之后找一个习惯的文件夹解压出来，解压出来后**先点击绿化**，然后打开下面的**IDMan.exe**文件就可以用了
 [![ORvq8P.md.png](https://s1.ax1x.com/2022/05/16/ORvq8P.md.png)](https://imgtu.com/i/ORvq8P)
 
 {% note warning::解压出来后一定要先点击绿化！！ %}
@@ -77,10 +80,8 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 然后把刚才复制到的直链粘贴进去后点击确定。
 [![ORjAJ0.md.png](https://s1.ax1x.com/2022/05/16/ORjAJ0.md.png)](https://imgtu.com/i/ORjAJ0)
 
-弹出确认下载窗口后等待右边出现文件图标和大小信息（很快），直接点击开始下载就可以享受Onedrive满速下载啦（具体下载速度依个人网络环境而定）
+弹出确认下载窗口后等待右边出现文件图标和大小信息（很快），直接点击开始下载就可以享受Onedrive满速下载（具体下载速度依个人网络环境而定）
 [![ORjnL4.md.png](https://s1.ax1x.com/2022/05/16/ORjnL4.md.png)](https://imgtu.com/i/ORjnL4)
-
-在这里最好是等它出现具体文件信息后再点击下载，会直接进入飞速模式~
 
 ## 四、结语
 
@@ -92,7 +93,7 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 
 ## 六、最新消息
 
-2022年9月8日更新：
+{% note::2022年9月8日更新： %}
 
 我自己经常用onedrive，有一个开发者账号和一个个人家庭版账号，今天惊喜地发现Onedrive客户端的下载速度居然逼近了20M/s。
 
@@ -103,3 +104,5 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 ![](https://cdn.nxingcloud.co/images/posts/one/ping-1d5ae41ee0df3f2f10115377277aa594-7efe7a.png)
 
 好在客户端的下载速度算是提了上来，无论稳定与否，终归也是看见了不限速的曙光。
+
+那就浅浅地期待一下吧~

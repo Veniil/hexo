@@ -296,3 +296,20 @@ custom_css:
     h4: 13px # Spacing above H4 (only px unit)
     p: 1em # Paragraph spacing between paragraphs
     line_height: 1.6 # normal, 1.5, 1.75, 2 ...
+
+open_graph:
+  image: https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
+  twitter_card: summary # summary_large_image , summary
+
+# 结构化数据用于更改搜索结果的显示效果
+structured_data:
+  enable: true
+  # 以下是覆盖配置, 默认配置见 scripts/helpers/structured-data/lib/config.js
+  data:
+    person:
+      sns:
+        - https://github.com/ZhangXQA
+    logo:
+      path: https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
+      width: 192
+      height: 192

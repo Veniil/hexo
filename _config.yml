@@ -3,31 +3,12 @@
 ## Source: https://github.com/hexojs/hexo/
 
 import:
-  head_end: 
+  head_begin:
+  - <img style="display:none;" src= "https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png" alt="for Zhihu"
+  head_end:
   - <script async defer data-website-id="e3e278bf-e568-4720-a2b9-6e0eefd6d89c" src="https://uma.nxingcloud.co/xuezm.js"></script>
-  - <script>
-      document.addEventListener("error", function(e) {
-      const elem = e.target;
-      const parentElem = e.target.parentElement;
-      const parentElemClass = parentElem.classList.toString();
-      const pParentElemClass = parentElem.parentElement.classList.toString();
-      if (elem.tagName.toLowerCase() !== 'img') {
-          return;
-      }
-      elem.classList.add('fix-cursor-default', 'error');
-      if(parentElemClass === 'fancybox' && pParentElemClass === 'fancybox') {
-        parentElem.parentElement.classList.add('hideFancybox');
-        parentElem.parentElement.classList.remove('fancybox');
-        parentElem.classList.remove('fancybox');
-      } else if(parentElemClass === 'img-bg' && pParentElemClass === 'img-wrap') {
-        parentElem.parentElement.classList.add('hideFancybox');
-      } else if(parentElemClass === 'author') {
-        parentElem.parentElement.classList.add('fix-author-imgError');
-      } else if(parentElemClass.indexOf('tk-avatar') != -1 ) {
-        parentElem.parentElement.classList.add('fix-avatar-imgError');
-      }
-    }, true);
-    </script>
+  body_begin:
+  - <img style="display:none;" src= "https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png" alt="for Zhihu"
 
 # Site
 title: 南星有话说
