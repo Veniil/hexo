@@ -5,8 +5,6 @@ bottom_meta: false
 sidebar: [music]
 plugins:
   - indent
-twikoo:
-  placeholder: 有什么想对我说的呢？
 ---
 
 > 欢迎来到我的小站呀，很高兴遇见你！🤝
