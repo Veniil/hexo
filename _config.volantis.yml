@@ -27,7 +27,7 @@ cover:
     home: true
     archive: true
     others: false # can be written in front-matter 'cover: true'
-  background: https://www.talklee.com/api/bing?rand=true
+  background: https://api.nxingcloud.co/bing/?rand=true #https://www.talklee.com/api/bing?rand=true
   logo: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
   title: '南星&NXing'
   subtitle: 'Code Creats Life.'
@@ -277,19 +277,6 @@ custom_css:
     effect: [shadow] # [shadow, floatable, blur]
   body:
     effect: [shadow] # [shadow, floatable, blur]
-  fontfamily:
-      logofont:
-        fontfamily: '"Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-        name: 'HanYiCuFangSongJian'
-        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2 # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
-        weight: normal
-        style: normal
-      bodyfont:
-        fontfamily: 'UbuntuMono, "Varela Round", "PingFang SC", "Microsoft YaHei", Helvetica, Arial'
-        name: 'UbuntuMono'
-        url: https://cdn.nxingcloud.co/assets/fonts/SourceHan/SourceHanSerifCN-Medium2-beeeeffc.woff2 # http://rh651xal8.hd-bkt.clouddn.com/img/SourceHanSerifCN-Medium2.woff2 # 
-        weight: normal
-        style: normal
   gap:
     h2: 40px # Spacing above H2 (only px unit)
     h3: 20px # Spacing above H3 (only px unit)

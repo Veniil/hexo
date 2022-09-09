@@ -3,12 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 import:
-  head_begin:
-  - <img style="display:none;" src= "https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png" alt="for Zhihu"
   head_end:
   - <script async defer data-website-id="e3e278bf-e568-4720-a2b9-6e0eefd6d89c" src="https://uma.nxingcloud.co/xuezm.js"></script>
-  body_begin:
-  - <img style="display:none;" src= "https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png" alt="for Zhihu"
 
 # Site
 title: 南星有话说
