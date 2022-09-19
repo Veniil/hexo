@@ -5,6 +5,9 @@
 import:
   head_end:
   - <script async defer data-website-id="e3e278bf-e568-4720-a2b9-6e0eefd6d89c" src="https://uma.nxingcloud.co/xuezm.js"></script>
+  - <link rel="preconnect" href="https://fonts.googleapis.com">
+  - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
 
 # Site
 title: 南星有话说
@@ -15,7 +18,7 @@ author: '南星&NXing'
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: https://cdn.nxingcloud.co/images/logo/icon/logo-d3f225b0.png?image
+favicon: https://cdn.nxingcloud.co/images/logo/icon/logo2-6e0461.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

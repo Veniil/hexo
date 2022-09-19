@@ -1,8 +1,7 @@
 ---
 title: Onedrive直链提取+IDM实现满速下载！
 tags: 'Onedrive，直链下载，IDM, 网盘满速'
-category: /Onedrive
-author: NXing
+category: Onedrive
 headimg: https://cdn.nxingcloud.co/images/posts/one/headmage-bd3839b8.png?image
 description: OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里发痒？别急！OneDrive的真正实力远超你想象！今天，我就来教大家如何用oneindex+IDM让你的OneDrive下载速度爆表。话不多说，正文开整！！！
 plugins:

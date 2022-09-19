@@ -45,10 +45,10 @@ cover:
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://one.nxingcloud.co/
-    - name: 空投
+    - name: 壁纸
       icon: #
-      img: https://cdn.nxingcloud.co/images/logo/icon/airdroplogo-a5a94dd3.png?image #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://airportal.cn/
+      img: https://cdn.nxingcloud.co/images/logo/icon/icons8-bing-32-e3c7cf370294576ae48fbb4625e8002c-76fa00.ico #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      url: https://bing.nxingcloud.co/
     - name: 云盘
       icon: #
       img: https://cdn.nxingcloud.co/images/logo/icon/Cloudlogo-f84213fc.ico?image # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
@@ -209,22 +209,17 @@ plugins:
   # 视差滚动效果 Slide Background
   parallax:
     enable: false
-  # APlayer is only available in mainland China.
-  # APlayer config: https://github.com/metowolf/MetingJS
+
+  code_highlight: highlightjs # highlightjs or prismjs
+  # highlight.js
+  highlightjs:
+    copy_code: true
+    js: https://unpkg.com/@highlightjs/cdn-assets@11.5.1/highlight.min.js # Please set hexo.config.highlight.enable = false !!!
+    css: https://cdn.jsdelivr.net/npm/highlight.js@11.6.0/styles/atom-one-dark.css # https://unpkg.com/@highlightjs/cdn-assets@11.5.1/styles/default.min.css
+
   aplayer:
     enable: false
-    # Required
-    server: netease   # netease, tencent, kugou, xiami, baidu
-    type: playlist    # song, playlist, album, search, artist
-    id: 647135926    # song id / playlist id / album id / search keyword
-    order: random       # player play order, values: 'list', 'random'
-    fixed: false
-    autoHide: false    # hide automaticaly
-  # 暗黑模式 darkmode
-  # 开关按钮：在 navbar.menu 中添加：
-  # - name: 暗黑模式 # 可自定义
-  #   icon: fa-solid fa-moon # 可自定义
-  #   toggle: darkmode
+    
   darkmode:
     enable: true
 
@@ -283,6 +278,17 @@ custom_css:
     h4: 13px # Spacing above H4 (only px unit)
     p: 1em # Paragraph spacing between paragraphs
     line_height: 1.6 # normal, 1.5, 1.75, 2 ...
+  fontfamily:
+    logofont:
+      fontfamily: '"PingFang SC", "Varela Round", "Microsoft YaHei", Helvetica, Arial'
+      #name: 'Varela Round'
+      # url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+    bodyfont:
+      fontfamily: '"PingFang SC", "Varela Round", "Microsoft YaHei", Helvetica, Arial'
+      #name: 'UbuntuMono'
+      #url: volantis-static/media/fonts/UbuntuMono/UbuntuMono-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
+    codefont:
+      fontfamily: 'Monaco, UbuntuMono, Menlo'
 
 open_graph:
   image: https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
@@ -300,3 +306,4 @@ structured_data:
       path: https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
       width: 192
       height: 192
+
