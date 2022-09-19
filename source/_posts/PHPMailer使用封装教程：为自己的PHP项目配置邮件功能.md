@@ -1,5 +1,5 @@
 ---
-title: 使用PHPMailer为自己的PHP项目配置邮件客户端
+title: PHPMailer使用封装教程：为自己的PHP项目配置邮件功能
 plugins:
   - indent
 renderNumberedHeading: true
@@ -302,4 +302,5 @@ send_email($to=$mailReceiver, $subject=$mailSubject, $content=$mailContent);
 ### 4.3 参考链接
 
 PHPMailer：https://github.com/PHPMailer/PHPMailer/
+
 菜鸟教程：https://www.runoob.com/w3cnote/php-phpmailer.html
