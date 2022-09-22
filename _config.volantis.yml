@@ -88,9 +88,9 @@ comments:
   service: artalk
   # 可选评论系统 #
   artalk:
-    js: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-b5b3a442.js # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-8cd0610d.js #  # https://yours-artalk-domain/dist/Artalk.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
-    css: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-2a1f8b36.css # http://rh651xal8.hd-bkt.clouddn.com/assets/style/artalk/Artalk-86129f6f.css #  # https://yours-artalk-domain/dist/Artalk.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
-    server: https://artalk.nxingcloud.co # https://yours-artalk-domain    # 修改为自建的后端服务地址
+    js: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-b5b3a442.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
+    css: https://cdn.nxingcloud.co/assets/style/artalk/Artalk-2a1f8b36.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
+    server: https://artalk.nxingcloud.co # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
     emoticons: 
@@ -101,7 +101,7 @@ comments:
 sidebar:
   position: right # left right
   # 主页、分类、归档等独立页面
-  for_page: [blogger, category, lastupdate]
+  for_page: [blogger, artalk, lastupdate]
   # layout: docs/post 这类文章页面
   for_post: [toc]
   # 侧边栏组件库
@@ -172,6 +172,11 @@ sidebar:
           unit: '字'
         visitcounter:
           service: # leancloud # busuanzi, leancloud
+    # Artalk widget
+    artalk:
+      class: artalk
+      sticky: true
+      display: [desktop]
 
 ############################### Site Footer ############################### > start
 site_footer:
