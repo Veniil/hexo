@@ -1,35 +1,70 @@
 navbar:
+  enable: true
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://cdn.nxingcloud.co/images/logo/icon/logo_450x200-22e71da5.png?image # 导航栏首个图标
+    img: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png # 导航栏首个图标
     icon:
     title:
   menu:
     - name: 首页
-      icon: fa fa-home
+      icon: iconfont icon-shouye
       url: /
     - name: 分类
-      icon: fa-solid fa-folder-open
+      icon: iconfont icon-fenlei-
       url: categories/
     - name: 归档
-      icon: fa-solid fa-archive
+      icon: iconfont icon-guidang
       url: archives/
     - name: 友链
-      icon: fa-solid fa-link
+      icon: iconfont icon-lianjie
       url: friends/
-    - name: 关于
-      icon: fa-solid fa-info-circle
-      url: about/
+    # - name: 关于
+    #   icon: fa-solid fa-info-circle
+    #   url: about/
+    - name: 暗黑模式 # 可自定义
+      icon: fa-solid fa-moon # 可自定义
+      toggle: darkmode
+
+nextNavbar:
+  # subtitle: 繁星永存，记忆亘古不变。
+  # menu:
+  #   - name: '- 首页 °| Home'
+  #     icon: 'iconfont icon-shouye'  # 'fa-light fa-home'
+  #     url: /
+  #   - name: '- 分类 °| Categories'
+  #     icon: 'iconfont icon-fenlei-' # 'fa-light fa-th'
+  #     url: /categories/
+  #   - name: '- 归档 °| Archives'
+  #     icon: 'iconfont icon-guidang' # 'fa-light fa-archive'
+  #     url: /archives/
+  #   # - name: '- 留言 °| Message'
+  #   #   icon: 'iconfont icon-liuyan' # 'fa-light fa-object-group'
+  #   #   url: /page/info/
+  #   - name: '- 友链 °| Friends'
+  #     icon: 'iconfont icon-lianjie' # 'fa-light fa-link'
+  #     url: /friends/
+  #   # - name: '- 生活 °| Blogger'
+  #   #   icon: 'fa-light fa-ghost'
+  #   #   url: https://szyink.com/
+  #   # - name: '- 虫洞 °| Wormhole'
+  #   #   icon: 'fa-light fa-bullseye-pointer'
+  #   #   url: https://www.foreverblog.cn/go.html
+  #   #   target: '_blank'  
+  #   - name: '- 搜索 °| Search'
+  #     icon: 'iconfont icon-sousuo' # 'fa-light fa-search'
+  #     url: 'javascript:void(0)'
+  #     click: 'OpenSearch()'
+
 cover:
   height_scheme: full # full, half
   layout_scheme: dock # blank (留白), search (搜索), dock (坞), featured (精选), focus (焦点)
   display: # 封面展示
     home: true
-    archive: true
+    archive: false
     others: false # can be written in front-matter 'cover: true'
-  background: https://api.nxingcloud.co/bing/?rand=true #https://www.talklee.com/api/bing?rand=true
+  background: https://api.nxingcloud.co/bing/?rand=true
   logo: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
-  title: '南星&NXing'
+  title: 'Venil'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
   features:
@@ -99,7 +134,7 @@ comments:
 
 
 sidebar:
-  position: right # left right
+  position: left # left right
   # 主页、分类、归档等独立页面
   for_page: [blogger, artalk, lastupdate]
   # layout: docs/post 这类文章页面
@@ -115,7 +150,6 @@ sidebar:
       shape: circle # circle, rectangle
       url: /about/
       title: 南星&NXing
-      subtitle: Code Creates Life.
       social:
         - icon: fa-solid fa-circle-user
           url: https://me.nxingcloud.co/
@@ -177,6 +211,11 @@ sidebar:
       class: artalk
       sticky: true
       display: [desktop]
+    # ---------------------------------------
+    # nextsite widget
+    nextsite:
+      class: nextsite
+      display: [desktop, mobile]
 
 ############################### Site Footer ############################### > start
 site_footer:

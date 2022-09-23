@@ -9,6 +9,7 @@ categories: PHP
 description: >-
   开源的PHPMailer简洁易用，相对于PHP官方文档提供的mail()需要一个已安装且正在运行的邮件系统，才能使邮件函数可用，选择更强大易用的PHPMailer无疑一个更为明智的选择。
 abbrlink: 1df67ba2
+headimg: https://cdn.nxingcloud.co/images/posts/phpmailer/PHPMaile-使项目具备邮件-535dd1.png
 date: 2022-09-18 21:29:19
 updated: 2022-09-18 21:29:19
 ---
