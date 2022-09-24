@@ -63,7 +63,7 @@ cover:
     archive: false
     others: false # can be written in front-matter 'cover: true'
   background: https://api.nxingcloud.co/bing/?rand=true
-  logo: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
+  logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
   title: 'Venil'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
@@ -80,14 +80,14 @@ cover:
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://one.nxingcloud.co/
-    - name: 壁纸
-      icon: #
-      img: https://cdn.nxingcloud.co/images/logo/icon/icons8-bing-32-e3c7cf370294576ae48fbb4625e8002c-76fa00.ico #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://bing.nxingcloud.co/
     - name: 云盘
       icon: #
       img: https://cdn.nxingcloud.co/images/logo/icon/Cloudlogo-f84213fc.ico?image # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
       url: https://pan.nxingcloud.co/
+    - name: 壁纸
+      icon: #
+      img: https://cdn.nxingcloud.co/images/logo/icon/icons8-bing-32-e3c7cf370294576ae48fbb4625e8002c-76fa00.ico #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      url: https://bing.nxingcloud.co/
 ############################### Cover ############################### > end
 
 pages:
@@ -114,7 +114,7 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
+        avatar: https://cdn.nxingcloud.co/images/logo/gravatar/cargravarjpeg-0a0da3.jpeg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
         name: 南星&NXing
         url: /
 
@@ -146,7 +146,7 @@ sidebar:
     blogger: 
       class: blogger
       display: [desktop] # [desktop, mobile]
-      avatar: https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
+      avatar: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
       shape: circle # circle, rectangle
       url: /about/
       title: 南星&NXing
