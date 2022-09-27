@@ -1,7 +1,5 @@
 ---
 title: PHPMailer使用封装教程：为自己的PHP项目配置邮件功能
-plugins:
-  - indent
 renderNumberedHeading: true
 grammar_cjkRuby: true
 tags: 'PHPMailer, 邮件, PHP, 封装'
@@ -12,6 +10,11 @@ abbrlink: 1df67ba2
 headimg: https://cdn.nxingcloud.co/images/posts/phpmailer/PHPMaile-使项目具备邮件-535dd1.png
 date: 2022-09-18 21:29:19
 updated: 2022-09-18 21:29:19
+references:
+    - title: PHPMailer官方文档
+      url: https://github.com/PHPMailer/PHPMailer/
+    - title: 菜鸟教程
+      url: https://www.runoob.com/w3cnote/php-phpmailer.html
 ---
 
 ## 一、引言
@@ -292,7 +295,9 @@ send_email($to=$mailReceiver, $subject=$mailSubject, $content=$mailContent);
 ### 4.2 163及QQ邮箱配置参考
 
 #### 163邮箱
+{% gallery %}
 ![163邮箱配置](https://cdn.nxingcloud.co/images/posts/phpmailer/201102010936447869c-2c7a22.png)
+{% endgallery %}
 
 #### QQ邮箱
         		
@@ -300,8 +305,3 @@ send_email($to=$mailReceiver, $subject=$mailSubject, $content=$mailContent);
 | :---:    |    :----:            |      :---:              |
 | qq.com   | pop.qq.com           | smtp.qq.com             |
 
-### 4.3 参考链接
-
-PHPMailer：https://github.com/PHPMailer/PHPMailer/
-
-菜鸟教程：https://www.runoob.com/w3cnote/php-phpmailer.html

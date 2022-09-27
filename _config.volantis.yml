@@ -150,9 +150,21 @@ article:
         avatar: https://cdn.nxingcloud.co/images/logo/gravatar/cargravarjpeg-0a0da3.jpeg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
         name: Xenns
         url: /
+      date: # 发布于：
+        icon: iconfont icon-rili
+      updated: # 更新于：
+        icon: iconfont icon-bianxie
+      category: # 文章分类
+        icon: iconfont icon-fenlei2
+      counter: # 文章浏览计数
+        icon: iconfont icon-liulan
+      artalkcount: # artalk 文章评论数量
+        icon: iconfont icon-pinglun2
+      tags: # 文章标签
+        icon: iconfont icon-biaoqian
 
 comments:
-  title: <i class='fa-solid fa-comments'></i> 评论
+  title: <i class='iconfont icon-pinglun4'></i> 评论
   service: artalk
   # 可选评论系统 #
   artalk:
@@ -303,11 +315,6 @@ plugins:
       title: '知识共享许可协议'
       message: '请遵守 CC BY-NC-SA 4.0 协议。'
       icon: 'far fa-copyright light-blue'
-    aplayer:
-      enable: true
-      play: fa-light fa-play light-blue
-      pause: fa-light fa-pause light-blue
-      error: fa-light fa-exclamation-square red
 
 ### 自定义右键 新
 rightmenus:
@@ -360,6 +367,23 @@ custom_css:
     codefont:
       fontfamily: 'JetBrainsMono, Menlo,Monaco,Consolas,Andale Mono,lucida console,Courier New,monospace'
       url: ''
+
+color_scheme:
+  # ------------
+  # 通用颜色
+  common:
+    # 主题色
+    theme: '#6600ff' #3dd9b6'
+    # 链接色
+    link: '#2092ec'
+    # 按钮色
+    button: '#262626' #44D7B6'
+    # 鼠标放到交互元素上时的色
+    hover: '#ff5722'
+    # 主题色块内部的文字颜色
+    inner: '#fff'
+    # 选中区域文字的背景颜色
+    selection: 'alpha(#2196f3, 0.2)'
 
 open_graph:
   image: https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
