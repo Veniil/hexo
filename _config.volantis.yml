@@ -64,7 +64,7 @@ cover:
     others: false # can be written in front-matter 'cover: true'
   background: https://api.nxingcloud.co/bing/?rand=true
   logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
-  title: 'Venil'
+  title: 'Xenns'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
   features:
@@ -148,7 +148,7 @@ article:
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
         avatar: https://cdn.nxingcloud.co/images/logo/gravatar/cargravarjpeg-0a0da3.jpeg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: 南星&NXing
+        name: Xenns
         url: /
 
 comments:
@@ -182,7 +182,7 @@ sidebar:
       avatar: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
       shape: circle # circle, rectangle
       url: /about/
-      title: 南星&NXing
+      title: Xenns
       social:
         - icon: fa-solid fa-circle-user
           url: https://me.nxingcloud.co/
@@ -197,11 +197,6 @@ sidebar:
     toc:
       class: toc
       list_number: false
-    # ---------------------------------------
-     # music
-    music:
-      class: music
-      pjaxReload: false # 切换页面时音乐不切换，继续播放
     # ---------------------------------------
     # category widget
     category:
@@ -222,7 +217,7 @@ sidebar:
       display: [desktop]
       header:
         icon: fa-solid fa-award
-        title: 站点信息
+        title: 本站信息
       type:
         article:
           enable: true
@@ -243,7 +238,7 @@ sidebar:
     artalk:
       class: artalk
       sticky: true
-      display: [desktop]
+      display: [desktop, cus-shadow]
     # ---------------------------------------
     # nextsite widget
     nextsite:
@@ -357,15 +352,14 @@ custom_css:
     line_height: 1.6 # normal, 1.5, 1.75, 2 ...
   fontfamily:
     logofont:
-      fontfamily: '"PingFang SC", "Varela Round", "Microsoft YaHei", Helvetica, Arial'
-      #name: 'Varela Round'
-      # url: volantis-static/media/fonts/VarelaRound/VarelaRound-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/VarelaRound/VarelaRound-Regular.ttf
+      fontfamily: 'Roboto, Noto Serif SC,-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif'
+      url: ''
     bodyfont:
-      fontfamily: '"PingFang SC", "Varela Round", "Microsoft YaHei", Helvetica, Arial'
-      #name: 'UbuntuMono'
-      #url: volantis-static/media/fonts/UbuntuMono/UbuntuMono-Regular.ttf # https://cdn.jsdelivr.net/gh/volantis-x/cdn-fonts/UbuntuMono/UbuntuMono-Regular.ttf
+      fontfamily: '"Noto Serif SC", Roboto,-apple-system,BlinkMacSystemFont,Helvetica Neue,PingFang SC,Microsoft YaHei,Source Han Sans SC,Noto Sans CJK SC,WenQuanYi Micro Hei,sans-serif'
+      url: ''
     codefont:
-      fontfamily: 'Monaco, UbuntuMono, Menlo'
+      fontfamily: 'JetBrainsMono, Menlo,Monaco,Consolas,Andale Mono,lucida console,Courier New,monospace'
+      url: ''
 
 open_graph:
   image: https://cdn.nxingcloud.co/images/logo/icon/logo_192x192-1bbba21164f88b5483eb56300e2b168d-9871be.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
