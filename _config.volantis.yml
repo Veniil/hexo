@@ -249,7 +249,7 @@ sidebar:
     # Artalk widget
     artalk:
       class: artalk
-      sticky: true
+      sticky: false
       display: [desktop, cus-shadow]
     # ---------------------------------------
     # nextsite widget
