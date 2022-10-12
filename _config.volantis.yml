@@ -62,16 +62,12 @@ cover:
     home: true
     archive: false
     others: false # can be written in front-matter 'cover: true'
-  background: https://api.nxingcloud.co/bing/?rand=true
+  background: https://bing.nxingcloud.co/api/?random=true
   logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
   title: 'Xenns'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
   features:
-    # - name: 主页
-    #   icon: #
-    #   img: http://rh651xal8.hd-bkt.clouddn.com/img/pagelogo2.svg?image # https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f5c3.svg
-    #   url: 
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
@@ -82,7 +78,7 @@ cover:
       url: https://one.nxingcloud.co/
     - name: 云盘
       icon: #
-      img: https://cdn.nxingcloud.co/images/logo/icon/Cloudlogo-f84213fc.ico?image # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
+      img: https://cdn.nxingcloud.co/kod-static/images/icon/kod.ico # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
       url: https://pan.nxingcloud.co/
     - name: 壁纸
       icon: #
