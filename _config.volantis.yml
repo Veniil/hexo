@@ -62,8 +62,8 @@ cover:
     home: true
     archive: false
     others: false # can be written in front-matter 'cover: true'
-  background: https://bing.nxingcloud.co/api/?random=true
-  logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
+  background: https://bing.nxingcloud.co/api/index.php?random=true/
+  logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png/ # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
   title: 'Xenns'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
