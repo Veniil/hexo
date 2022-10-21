@@ -4,7 +4,7 @@
 
 import:
   head_end:
-  - <script async defer data-website-id="e3e278bf-e568-4720-a2b9-6e0eefd6d89c" src="https://uma.nxingcloud.co/xuezm.js"></script>
+  - <script async defer data-website-id="e3e278bf-e568-4720-a2b9-6e0eefd6d89c" src="https://uma.xenns.com/xuezm.js"></script>
   - <link rel="preconnect" href="https://fonts.googleapis.com">
   - <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   - <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC&display=swap" rel="stylesheet">
@@ -12,7 +12,7 @@ import:
   
 
 # Site
-title: 南星有话说
+title: 淼言学习记 - Xenns
 subtitle: 南星的博客
 description: '这里是南星的小站，用来做我的学习记录记录，不定时分享C语言，C++，Python，计算机网络，及日常使用技巧等方面的内容'
 keywords: NXing,NXingcloud,南星,博客,Blog,C++,C语言,Python,网络技术,volantis
@@ -20,11 +20,11 @@ author: '南星&NXing'
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png #https://cdn.nxingcloud.co/images/logo/icon/logo -3--f0ee1f.png # https://cdn.nxingcloud.co/images/logo/icon/logo2-6e0461.png
+favicon: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://nxingcloud.co/
+url: https://xenns.com/
 root: /
 # permalink: :year/:month/:day/:title/
 # permalink_defaults:

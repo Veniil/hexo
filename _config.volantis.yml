@@ -62,8 +62,8 @@ cover:
     home: true
     archive: false
     others: false # can be written in front-matter 'cover: true'
-  background: https://bing.nxingcloud.co/api/index.php?random=true/
-  logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png/ # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
+  background: https://bing.xenns.com/api/index.php?random=true/
+  logo: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
   title: 'Xenns'
   subtitle: 'Code Creats Life.'
   search: The world is going to get better # search bar placeholder
@@ -71,19 +71,19 @@ cover:
     - name: 博客
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f4f0.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f4f0.svg
-      url: https://nxingcloud.co/
+      url: https://xenns.com/
     - name: 文件
       icon: #
       img: volantis-static/media/twemoji/assets/svg/1f5c3.svg #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://one.nxingcloud.co/
+      url: https://one.xenns.com/
     - name: 云盘
       icon: #
-      img: https://cdn.nxingcloud.co/kod-static/images/icon/kod.ico # http://rh651xal8.hd-bkt.clouddn.com/img/Cloudlogo6.ico?image # 
-      url: https://pan.nxingcloud.co/
+      img: https://unpkg.com/volantis-static@0.0.1660614606622/media/twemoji/assets/svg/1f9ec.svg 
+      url: https://pan.xenns.com/
     - name: 壁纸
       icon: #
       img: https://cdn.nxingcloud.co/images/logo/icon/icons8-bing-32-e3c7cf370294576ae48fbb4625e8002c-76fa00.ico #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
-      url: https://bing.nxingcloud.co/
+      url: https://bing.xenns.com/
 ############################### Cover ############################### > end
 
 pages:
@@ -166,7 +166,7 @@ comments:
   artalk:
     js: https://cdn.nxingcloud.co/Artalk-c4859270.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
     css: https://cdn.nxingcloud.co/Artalk-1bffefce.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
-    server: https://artalk.nxingcloud.co # 修改为自建的后端服务地址
+    server: https://artalk.xenns.com # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
     emoticons: 
@@ -190,14 +190,14 @@ sidebar:
       avatar: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png # https://cdn.nxingcloud.co/images/logo/gravatar/circleedgelogo-855aa71c.png?image
       shape: circle # circle, rectangle
       url: /about/
-      title: Xenns
+      title: 淼言
       social:
         - icon: fa-solid fa-circle-user
-          url: https://me.nxingcloud.co/
+          url: https://xenns.com/about/
         - icon: fa-solid fa-envelope
           url: mailto:z1304242002@163.com
         - icon: fab fa-github
-          url: https://github.com/ZhangXQA/
+          url: https://github.com/imXenns/
         - icon: fa-solid fa-headphones-alt
           url: https://music.163.com/#/playlist?id=647135926/
     # ---------------------------------------
@@ -259,16 +259,16 @@ site_footer:
   layout: [social, license, Upai, shilds, copyright, beian]
   social:
     - icon: fa fa-home
-      url: https://me.nxingcloud.co/
+      url: https://xenns.com/about/
     - icon: fas fa-envelope
       url: mailto:z1304242002@163.com
     - icon: fab fa-github
       url: https://github.com/ZhangXQA/
-  beian: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2022019815号-1</a>
+  beian: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2022019815号-2</a>
   Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由 <img src="https://cdn.nxingcloud.co/images/logo/icon/upai-bf0d7cd0.png?image" alt="又拍云" width="59" height="30" style="vertical-align:middle"> 提供CDN加速/云存储服务</a>
   shilds: '[![](https://img.shields.io/badge/Powered-Hexo-blue.svg)](https://hexo.io/zh-cn/)        [![](https://img.shields.io/badge/Theme-Volantis-success.svg)](https://volantis.js.org/)'
   # site copyright
-  copyright: '[政策](https://nxingcloud.co/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
+  copyright: '[政策](https://xenns.com/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [南星&NXing](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '[Powered by Hexo and Volantis](/)'
 

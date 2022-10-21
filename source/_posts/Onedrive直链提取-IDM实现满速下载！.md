@@ -66,7 +66,7 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 [![ORXHZd.md.png](https://s1.ax1x.com/2022/05/16/ORXHZd.md.png)](https://imgtu.com/i/ORXHZd)
 {% endgallery %}
 
-{% note warning::注意，此网站非本人运营，仅作推荐，对于其中的内容与安全性不作保障，是否使用请网友们自行选择。本人对于使用此网站产生的一切问题概不负责。另外，如该网站负责人不希望本人在此引用则请联系本人删除。本站详细网站政策请参见[政策](https://nxingcloud.co/pages/policy/)一页。 %}
+{% note warning::注意，此网站非本人运营，仅作推荐，对于其中的内容与安全性不作保障，是否使用请网友们自行选择。本人对于使用此网站产生的一切问题概不负责。另外，如该网站负责人不希望本人在此引用则请联系本人删除。本站详细网站政策请参见[政策](https://xenns.com/pages/policy/)一页。 %}
 
 将自己复制到的链接粘贴到上面然后直接点击提取后，把下面的链接复制起来就是直链啦~
 ### 3.2 利用IDM/Motrix实现满速下载
@@ -74,8 +74,8 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 针对Onedrive不同文件的直链，下载速度也会有所偏差。基本上IDM和Motrix都有可能达到满速的效果。这里以IDM为例来展示下载过程。
 #### 3.2.1 安装IDM
 
-拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://pan.nxingcloud.co/#s/8l9CoG4Q)进行下载。
-{% link IDM-中文绿色版::https://pan.nxingcloud.co/#s/8l9CoG4Q::https://cdn.nxingcloud.co/kod-static/images/icon/icon_192.png %}
+拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://pan.xenns.com/#s/8l9CoG4Q)进行下载。
+{% link IDM-中文绿色版::https://pan.xenns.com/#s/8l9CoG4Q::https://cdn.nxingcloud.co/kod-static/images/icon/icon_192.png %}
 
 下载之后找一个习惯的文件夹解压出来，解压出来后**先点击绿化**，然后打开下面的**IDMan.exe**文件就可以用了
 {% gallery %}

@@ -9,7 +9,7 @@ comments: false
 thumbnail: http://rh651xal8.hd-bkt.clouddn.com/images/logo/icon/CCicon-ea897594.png?image/
 ---
 
-This is a human-readable summary of (and not a substitute for) the [license](https://nxingcloud.co/pages/cc/license/).
+This is a human-readable summary of (and not a substitute for) the [license](https://xenns.com/pages/cc/license/).
 
 <!-- more -->
 

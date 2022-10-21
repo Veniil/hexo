@@ -290,7 +290,7 @@ send_email($to=$mailReceiver, $subject=$mailSubject, $content=$mailContent);
 此文为个人做项目时的随手记录，苦恼于网络教程均不再适用，便写下此文展示最新的配置过程以供网友们查阅。
 
 ### 4.1 下载链接
-本文全部源码的下载链接：https://pan.nxingcloud.co/#s/8l9LPoTw
+本文全部源码的下载链接：https://pan.xenns.com/#s/8l9LPoTw
 
 ### 4.2 163及QQ邮箱配置参考
 
