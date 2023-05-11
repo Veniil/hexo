@@ -2,7 +2,7 @@ navbar:
   enable: false
   visiable: auto # always, auto
   logo: # choose [img] or [icon + title]
-    img: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png # 导航栏首个图标
+    img: https://cdn.xenns.com/images/logo/icon/logo-5-209a13.png # 导航栏首个图标
     icon:
     title:
   menu:
@@ -63,7 +63,7 @@ cover:
     archive: true
     others: true # can be written in front-matter 'cover: true'
   background: https://bing.xenns.com/api/index.php?random=true/
-  logo: # https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png
+  logo: # https://cdn.xenns.com/images/logo/gravatar/larggedge-bb871f.png
   title: '一日不书，百事荒芜。'
   subtitle: # 'Code Creats Life.'
   search: Better world, better life! # search bar placeholder
@@ -82,7 +82,7 @@ cover:
       url: https://web.xenns.com/
     - name: 壁纸
       icon: #
-      img: https://cdn.nxingcloud.co/images/logo/icon/icons8-bing-32-e3c7cf370294576ae48fbb4625e8002c-76fa00.ico #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
+      img: https://cdn.xenns.com/images/logo/icon/icons8-bing-32-e3c7cf370294576ae48fbb4625e8002c-76fa00.ico #  https://cdn.jsdelivr.net/gh/twitter/twemoji@13.0/assets/svg/1f9ec.svg
       url: https://bing.xenns.com/
 ############################### Cover ############################### > end
 
@@ -143,8 +143,8 @@ article:
       # 默认文章作者（可在 _data/author.yaml 中增加其他作者，并在 front-matter 中设置）
       # https://volantis.js.org/advanced-settings/#多人协同
       author:
-        avatar: https://cdn.nxingcloud.co/images/logo/gravatar/cargravarjpeg-0a0da3.jpeg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
-        name: Xenns
+        avatar: https://cdn.xenns.com/images/logo/gravatar/cargravarjpeg-0a0da3.jpeg # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/apple-touch-icon.png
+        name: XyoZang
         url: /
       date: # 发布于：
         icon: iconfont icon-rili
@@ -164,14 +164,14 @@ comments:
   service: artalk
   # 可选评论系统 #
   artalk:
-    js: https://cdn.nxingcloud.co/Artalk-c4859270.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
-    css: https://cdn.nxingcloud.co/Artalk-1bffefce.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
+    js: https://cdn.xenns.com/Artalk-c4859270.js   # or https://unpkg.com/artalk@2.2.8/dist/Artalk.js
+    css: https://cdn.xenns.com/Artalk-1bffefce.css # or https://unpkg.com/artalk@2.2.8/dist/Artalk.css
     server: https://artalk.xenns.com # 修改为自建的后端服务地址
     path:  # 全局评论地址
     placeholder: # 评论占位
     emoticons: 
-    - "https://cdn.nxingcloud.co/images/emoji/bilibili2233/bilibili2233.json"
-    - "https://cdn.nxingcloud.co/images/emoji/Tieba/Tieba.json"
+    - "https://cdn.xenns.com/images/emoji/bilibili2233/bilibili2233.json"
+    - "https://cdn.xenns.com/images/emoji/Tieba/Tieba.json"
 
 
 sidebar:
@@ -187,7 +187,7 @@ sidebar:
     blogger: 
       class: blogger
       display: [desktop] # [desktop, mobile]
-      avatar: https://cdn.nxingcloud.co/images/logo/gravatar/larggedge-bb871f.png
+      avatar: https://cdn.xenns.com/images/logo/gravatar/larggedge-bb871f.png
       shape: circle # circle, rectangle
       url: /about/
       title: 淼言
@@ -197,7 +197,7 @@ sidebar:
         - icon: fa-solid fa-envelope
           url: mailto:z1304242002@163.com
         - icon: fab fa-github
-          url: https://github.com/imXenns/
+          url: https://github.com/XyoZang/
         - icon: fa-solid fa-headphones-alt
           url: https://music.163.com/#/playlist?id=647135926/
     # ---------------------------------------
@@ -263,12 +263,12 @@ site_footer:
     - icon: fas fa-envelope
       url: mailto:z1304242002@163.com
     - icon: fab fa-github
-      url: https://github.com/imXenns/
+      url: https://github.com/XyoZang/
   beian: <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2022019815号</a>
-  Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由 <img src="https://cdn.nxingcloud.co/images/logo/icon/upai-bf0d7cd0.png?image" alt="又拍云" width="59" height="30" style="vertical-align:middle"> 提供CDN加速/云存储服务</a>
+  Upai: <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral/">本站由 <img src="https://cdn.xenns.com/images/logo/icon/upai-bf0d7cd0.png?image" alt="又拍云" width="59" height="30" style="vertical-align:middle"> 提供CDN加速/云存储服务</a>
   shilds: '[![](https://img.shields.io/badge/Powered-Hexo-blue.svg)](https://hexo.io/zh-cn/)        [![](https://img.shields.io/badge/Theme-Volantis-success.svg)](https://volantis.js.org/)'
   # site copyright
-  copyright: '[政策](https://xenns.com/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [Xenns](/)'
+  copyright: '[政策](https://xenns.com/pages/policy/) | Copyright © 2022 <i class="fa fa-heartbeat" aria-hidden="true" style="color:red"></i> [XyoZang](/)'
   # You can add your own property here. (Support markdown, for example: br: '<br>')
   br: '[Powered by Hexo and Volantis](/)'
 
@@ -338,7 +338,7 @@ analytics: artalk
 #  leancloud: # 请使用自己的 id & key 以防止数据丢失
     # app_id: jzo6WNun9yu1j8JBPvqtrI07-MdYXbMMI # u9j57bwJod4EDmXWdxrwuqQT-MdYXbMMI
     # app_key: 2Pup6g4oWaBzosPxYVD0CFxV # jfHtEKVE24j0IVCGHbvuFClp
-    # custom_api_server: https://lncld.nxingcloud.cf/ # 国际版一般不需要写，除非自定义了 API Server
+    # custom_api_server: # 国际版一般不需要写，除非自定义了 API Server
 
 custom_css:
   scrollbar: # 滚动条
@@ -386,7 +386,7 @@ color_scheme:
     selection: 'alpha(#2196f3, 0.2)'
 
 open_graph:
-  image: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
+  image: https://cdn.xenns.com/images/logo/icon/logo-5-209a13.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
   twitter_card: summary # summary_large_image , summary
 
 # 结构化数据用于更改搜索结果的显示效果
@@ -396,9 +396,9 @@ structured_data:
   data:
     person:
       sns:
-        - https://github.com/imXenns
+        - https://github.com/XyoZang
     logo:
-      path: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
+      path: https://cdn.xenns.com/images/logo/icon/logo-5-209a13.png # https://cdn.jsdelivr.net/gh/volantis-x/cdn-org/blog/favicon/android-chrome-192x192.png
       width: 192
       height: 192
 

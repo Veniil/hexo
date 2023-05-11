@@ -23,4 +23,4 @@ hexo new "新文章标题"
 hexo n page "新页面标题"
 ```
 
-jsDelivr: **[imXenns/hexo](https://www.jsdelivr.com/package/gh/imXenns/hexo)**
+jsDelivr: **[XyoZang/hexo](https://www.jsdelivr.com/package/gh/XyoZang/hexo)**

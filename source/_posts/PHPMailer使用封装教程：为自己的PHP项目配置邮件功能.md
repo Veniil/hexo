@@ -7,7 +7,7 @@ categories: PHP
 description: >-
   开源的PHPMailer简洁易用，相对于PHP官方文档提供的mail()需要一个已安装且正在运行的邮件系统，才能使邮件函数可用，选择更强大易用的PHPMailer无疑一个更为明智的选择。
 abbrlink: 1df67ba2
-headimg: https://cdn.nxingcloud.co/images/posts/phpmailer/PHPMaile-使项目具备邮件-535dd1.png
+headimg: https://cdn.xenns.com/images/posts/phpmailer/PHPMaile-使项目具备邮件-535dd1.png
 date: 2022-09-18 21:29:19
 updated: 2022-09-18 21:29:19
 references:
@@ -235,7 +235,7 @@ Config.php
 ```PHP
 <?php
 /*
-Copyright © 2022 by nxingcloud@163.com
+Copyright © 2022 by xyozang@163.com
 */
 // 邮箱配置信息
 
@@ -296,7 +296,7 @@ send_email($to=$mailReceiver, $subject=$mailSubject, $content=$mailContent);
 
 #### 163邮箱
 {% gallery %}
-![163邮箱配置](https://cdn.nxingcloud.co/images/posts/phpmailer/201102010936447869c-2c7a22.png)
+![163邮箱配置](https://cdn.xenns.com/images/posts/phpmailer/201102010936447869c-2c7a22.png)
 {% endgallery %}
 
 #### QQ邮箱

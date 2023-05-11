@@ -12,15 +12,15 @@ import:
   
 
 # Site
-title: 淼言学习记 - Xenns
-subtitle: 南星的博客
-description: '这里是南星的小站，用来做我的学习记录记录，不定时分享C语言，C++，Python，计算机网络，及日常使用技巧等方面的内容'
-keywords: NXing,NXingcloud,南星,博客,Blog,C++,C语言,Python,网络技术,volantis
-author: '南星&NXing'
+title: 淼言学习记 - XyoZang
+subtitle: 
+description: '这里是XyoZang的小站，用来做我的学习记录记录，不定时分享Python，机器学习，计算机基础，及日常使用技巧等方面的内容'
+keywords: XyoZang, Xenns, 淼言, 博客,Blog,Python,机器学习，网络技术,volantis
+author: 'XyoZang'
 language: zh-CN
 timezone: Asia/Shanghai
 # 网站图标，更多尺寸等图标请使用import方式批量导入
-favicon: https://cdn.nxingcloud.co/images/logo/icon/logo-5-209a13.png
+favicon: https://cdn.xenns.com/images/logo/icon/logo-5-209a13.png
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'

@@ -16,5 +16,5 @@ plugins:
 ## ⛹ 兴趣爱好
 Python与C~
 ## 📬 联系方式
-邮箱：nxingcloud@163.com
+邮箱：xyozang@163.com
 

@@ -2,7 +2,7 @@
 title: Onedrive直链提取+IDM实现满速下载！
 tags: 'Onedrive，直链下载，IDM, 网盘满速'
 category: Onedrive
-headimg: https://cdn.nxingcloud.co/images/posts/one/headmage-bd3839b8.png?image
+headimg: https://cdn.xenns.com/images/posts/one/headmage-bd3839b8.png?image
 description: OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里发痒？别急！OneDrive的真正实力远超你想象！今天，我就来教大家如何用oneindex+IDM让你的OneDrive下载速度爆表。话不多说，正文开整！！！
 plugins:
   - indent
@@ -68,7 +68,7 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 #### 3.2.1 安装IDM
 
 拿到直链后，我们直接打开IDM（Internet Download Manager）,没有的朋友点[这里](https://pan.xenns.com/d/AliYun/Public/IDM%20-6.38.7.2%20%20%E4%B8%AD%E6%96%87%E7%BB%BF%E8%89%B2%E7%89%B9%E5%88%AB%E7%89%88.rar?sign=uwCAFv8re4D48CXCS2g1zkXQTnUIWhh-k8tBteR6bGA=:0)进行下载。
-{% link IDM-中文绿色版::https://pan.xenns.com/d/AliYun/Public/IDM%20-6.38.7.2%20%20%E4%B8%AD%E6%96%87%E7%BB%BF%E8%89%B2%E7%89%B9%E5%88%AB%E7%89%88.rar?sign=uwCAFv8re4D48CXCS2g1zkXQTnUIWhh-k8tBteR6bGA=:0::https://cdn.nxingcloud.co/kod-static/images/icon/icon_192.png %}
+{% link IDM-中文绿色版::https://pan.xenns.com/d/AliYun/Public/IDM%20-6.38.7.2%20%20%E4%B8%AD%E6%96%87%E7%BB%BF%E8%89%B2%E7%89%B9%E5%88%AB%E7%89%88.rar?sign=uwCAFv8re4D48CXCS2g1zkXQTnUIWhh-k8tBteR6bGA=:0::https://cdn.xenns.com/kod-static/images/icon/icon_192.png %}
 
 下载之后找一个习惯的文件夹解压出来，解压出来后**先点击绿化**，然后打开下面的**IDMan.exe**文件就可以用了
 {% gallery %}
@@ -109,13 +109,13 @@ OneDrive虽然嫖到了5T但是速度慢到极致是不是很不甘心，心里�
 我自己经常用onedrive，有一个开发者账号和一个个人家庭版账号，今天惊喜地发现Onedrive客户端的下载速度居然逼近了20M/s。
 
 {% gallery %}
-![](https://cdn.nxingcloud.co/images/posts/one/tisu-1714b373cecc338dbbc1a36b45374119-344557.png)
+![](https://cdn.xenns.com/images/posts/one/tisu-1714b373cecc338dbbc1a36b45374119-344557.png)
 {% endgallery %}
 
 不过就在我惊喜之余去ping了一下onedrive的官网，发现结果还是一如既往。
 
 {% gallery %}
-![](https://cdn.nxingcloud.co/images/posts/one/ping-1d5ae41ee0df3f2f10115377277aa594-7efe7a.png)
+![](https://cdn.xenns.com/images/posts/one/ping-1d5ae41ee0df3f2f10115377277aa594-7efe7a.png)
 {% endgallery %}
 
 好在客户端的下载速度算是提了上来，无论稳定与否，终归也是看见了不限速的曙光。
